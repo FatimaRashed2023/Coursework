@@ -1,4 +1,4 @@
-Items Produced,W1,W2,W3,W4,W5,Total,Price per unit,Total production worth,items wasted,W1,W2,W3,W4,W5,Total,Price per unit,Amount wasted
+Items Produced,W1P,W2P,W3P,W4P,W5P,Total Production,Price per unit,Total production worth,items wasted,W1W,W2W,W3W,W4W,W5W,Total Wastage,Price per unit,Amount wasted
 Brownies,0,12,18,6,6,42,4000,168000,BROWNIES,0,0,4,4,4,12,4000,48000
 Butter Chicken,5,12,12,10,6,45,11500,517500,BUTTER CHICKEN,0,0,1,0,1,2,11500,23000
 Cheese and Tomato Sandwich,3,8,8,8,6,33,7500,247500,CHEESE & TOMATO SANDWICH,1,4,6,4,1,16,7500,120000
