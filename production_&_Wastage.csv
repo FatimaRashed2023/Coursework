@@ -1,4 +1,4 @@
-Items,Price per item,P week1,P week2,P week3,P week4,P week5,Total Produced,Total worth,W Week1,W week2,W week3,W week4,W week5,Total wastage,Amount wasted
+Items,Price per item,P.week1,P.week2,P.week3,P.week4,P.week5,Total Produced,Total worth,W.Week1,W.week2,W.week3,W.week4,W.week5,Total wastage,Amount wasted
 Brownies,4000,0,12,18,6,6,42,168000,0,0,4,4,4,12,48000
 Butter Chicken,11500,5,12,12,10,6,45,517500,0,0,1,0,1,2,23000
 Cheese and Tomato Sandwich,7500,3,8,8,8,6,33,247500,1,4,6,4,1,16,120000
