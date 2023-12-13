@@ -1,914 +1,914 @@
 ﻿Date,Time,Receipt number,Category,Item,Quantity,Price per item,Net sales
-30/11/2023,7:31:00 PM,R-10500,Drinks,Capuccino,1,5000,5000
-30/11/2023,7:31:00 PM,R-10500,Takeaways,Standard Takeaway Charges,1,500,500
-30/11/2023,7:31:00 PM,R-10499,Drinks,Bottled Soda,1,2000,2000
-30/11/2023,7:25:00 PM,R-10498,Drinks,Immunity Juice,1,3000,3000
-30/11/2023,5:36:00 PM,R-10497,Drinks,Capuccino,2,5000,10000
-30/11/2023,5:36:00 PM,R-10497,Pastries,Cookies,3,1000,3000
-30/11/2023,5:33:00 PM,R-10496,Pastries,Cinnamon Roll,1,4000,4000
-30/11/2023,5:33:00 PM,R-10496,Pastries,Plain Croissants,1,4000,4000
-30/11/2023,5:33:00 PM,R-10496,Drinks,Kadak Chai,1,4500,4500
-30/11/2023,5:33:00 PM,R-10496,Drinks,Espresso,1,3000,3000
-30/11/2023,5:19:00 PM,R-10495,Drinks,Hill Water (Lemon and Mint),1,4500,4500
-30/11/2023,5:19:00 PM,R-10495,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-30/11/2023,5:05:00 PM,R-10494,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-30/11/2023,5:05:00 PM,R-10494,Drinks,Red Blush,1,3500,3500
-30/11/2023,5:05:00 PM,R-10494,Drinks,Water,1,1000,1000
-30/11/2023,5:05:00 PM,R-10494,Drinks,Strawberry Classic Shake,1,9000,9000
-30/11/2023,5:03:00 PM,R-10493,Drinks,Mango Juice 250ml,1,3000,3000
-30/11/2023,5:03:00 PM,R-10493,Takeaways,Standard Takeaway Charges,1,500,500
-30/11/2023,4:59:00 PM,R-10492,Drinks,Passion Juice 250ml,1,3000,3000
-30/11/2023,4:59:00 PM,R-10492,Drinks,Water,1,1000,1000
-30/11/2023,4:59:00 PM,R-10492,Drinks,Mint Pinade,1,7500,7500
-30/11/2023,4:59:00 PM,R-10492,Drinks,Peanut Butter Smoothie,1,8000,8000
-30/11/2023,4:59:00 PM,R-10492,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-30/11/2023,4:59:00 PM,R-10492,Pastries,Kasata (seseme),1,3000,3000
-30/11/2023,4:14:00 PM,R-10491,Drinks,Mango Juice 250ml,1,3000,3000
-30/11/2023,4:00:00 PM,R-10489,Pastries,Brownies,1,4000,4000
-30/11/2023,4:00:00 PM,R-10489,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-30/11/2023,3:11:00 PM,R-10488,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
-30/11/2023,3:11:00 PM,R-10488,Drinks,Bottled Soda,1,2000,2000
-30/11/2023,2:57:00 PM,R-10487,Pastries,Cinnamon Roll,1,4000,4000
-30/11/2023,2:51:00 PM,R-10486,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-30/11/2023,2:51:00 PM,R-10486,Drinks,Immunity Juice,1,3000,3000
-30/11/2023,2:05:00 PM,R-10485,Pastries,Brownies,1,4000,4000
-30/11/2023,2:03:00 PM,R-10483,Drinks,Bottled Soda,1,2000,2000
-30/11/2023,2:03:00 PM,R-10483,Consumeables Stock,Rosho Oat - Choco Brownie,1,5000,5000
-30/11/2023,2:03:00 PM,R-10483,Takeaways,Standard Takeaway Charges,1,500,500
-30/11/2023,1:31:00 PM,R-10481,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
-30/11/2023,12:44:00 PM,R-10480,ZO Kitchen - Food,Breakfast (Eggs Your way),2,12000,24000
-30/11/2023,12:44:00 PM,R-10480,ZO Kitchen - Food,ADD on: Mushrooms,2,1500,3000
-30/11/2023,12:44:00 PM,R-10480,Drinks,Espresso,1,3000,3000
-30/11/2023,12:44:00 PM,R-10480,Consumeables Stock,Rosho Oat - Mocha,1,5000,5000
-30/11/2023,12:44:00 PM,R-10480,Pastries,Chocolate Croissants,1,4000,4000
-30/11/2023,12:39:00 PM,R-10479,ZO Kitchen - Food,Breakfast (Eggs Your way),1,12000,12000
-30/11/2023,12:39:00 PM,R-10479,Drinks,Kadak Chai,1,4500,4500
-30/11/2023,12:38:00 PM,R-10478,Drinks,Capuccino,2,5000,10000
-30/11/2023,12:36:00 PM,R-10477,Drinks,Espresso,1,3000,3000
-30/11/2023,11:06:00 AM,R-10476,Drinks,Capuccino,1,5000,5000
-30/11/2023,10:42:00 AM,R-10475,Pastries,Plain Croissants,1,4000,4000
-30/11/2023,9:04:00 AM,R-10473,Drinks,Americano,1,5000,5000
-30/11/2023,9:03:00 AM,R-10472,Pastries,Chocolate Croissants,2,4000,8000
-30/11/2023,9:03:00 AM,R-10471,Drinks,Espresso,1,3000,3000
-29/11/2023,7:29:00 PM,R-10470,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-29/11/2023,7:29:00 PM,R-10470,Pastries,Kasata (seseme),1,3000,3000
-29/11/2023,5:15:00 PM,R-10469,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-29/11/2023,5:15:00 PM,R-10469,Drinks,Immunity Juice,1,3000,3000
-29/11/2023,4:51:00 PM,R-10468,Drinks,Espresso,1,3000,3000
-29/11/2023,4:51:00 PM,R-10467,Drinks,Chai Latte,1,5000,5000
-29/11/2023,4:51:00 PM,R-10467,Drinks,Hill Water (Lemon and Mint),1,4500,4500
-29/11/2023,4:21:00 PM,R-10466,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-29/11/2023,4:21:00 PM,R-10466,Drinks,Americano,1,5000,5000
-29/11/2023,3:29:00 PM,R-10465,Pastries,Brownies,1,4000,4000
-29/11/2023,3:29:00 PM,R-10465,Drinks,Mango Juice 250ml,1,3000,3000
-29/11/2023,3:22:00 PM,R-10464,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-29/11/2023,3:22:00 PM,R-10464,Drinks,Mango Juice 250ml,1,3000,3000
-29/11/2023,3:22:00 PM,R-10464,Drinks,Passion Juice 250ml,1,3000,3000
-29/11/2023,3:22:00 PM,R-10464,Takeaways,Standard Takeaway Charges,1,500,500
-29/11/2023,3:19:00 PM,R-10463,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-29/11/2023,3:19:00 PM,R-10463,Pastries,Brownies,1,4000,4000
-29/11/2023,3:19:00 PM,R-10463,Drinks,Capuccino,2,5000,10000
-29/11/2023,3:12:00 PM,R-10462,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-29/11/2023,3:12:00 PM,R-10462,Consumeables Stock,Eggs only,1,6000,6000
-29/11/2023,3:12:00 PM,R-10462,Drinks,Capuccino,1,5000,5000
-29/11/2023,3:12:00 PM,R-10462,Drinks,Immunity Juice,1,3000,3000
-29/11/2023,3:12:00 PM,R-10462,Drinks,Red Blush,1,3500,3500
-29/11/2023,2:42:00 PM,R-10461,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-29/11/2023,2:42:00 PM,R-10461,Drinks,Water,1,1000,1000
-29/11/2023,2:41:00 PM,R-10460,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-29/11/2023,2:41:00 PM,R-10460,Drinks,Bottled Soda,1,2000,2000
-29/11/2023,2:28:00 PM,R-10458,Drinks,Water,1,1000,1000
-29/11/2023,2:27:00 PM,R-10457,Drinks,Immunity Juice,2,3000,6000
-29/11/2023,2:11:00 PM,R-10455,Pastries,Kasata (seseme),1,3000,3000
-29/11/2023,2:11:00 PM,R-10455,Takeaways,Standard Takeaway Charges,1,500,500
-29/11/2023,12:29:00 PM,R-10451,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-29/11/2023,12:29:00 PM,R-10451,Drinks,Bottled Soda,1,2000,2000
-29/11/2023,10:09:00 AM,R-10449,Drinks,Cafe Latte,1,5000,5000
-29/11/2023,10:09:00 AM,R-10449,Takeaways,Standard Takeaway Charges,1,500,500
-29/11/2023,9:56:00 AM,R-10448,Drinks,Capuccino,1,5000,5000
-29/11/2023,9:19:00 AM,R-10447,Pastries,Chocolate Croissants,2,4000,8000
-29/11/2023,9:15:00 AM,R-10446,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-29/11/2023,9:15:00 AM,R-10446,Drinks,Americano,1,5000,5000
-29/11/2023,9:06:00 AM,R-10445,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-29/11/2023,9:06:00 AM,R-10445,Drinks,Tropical Mix,1,8000,8000
-29/11/2023,9:05:00 AM,R-10444,Drinks,Espresso,1,3000,3000
-29/11/2023,9:05:00 AM,R-10444,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-28/11/2023,5:18:00 PM,R-10442,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-28/11/2023,5:18:00 PM,R-10442,Drinks,Bottled Soda,1,2000,2000
-28/11/2023,4:24:00 PM,R-10441,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-28/11/2023,4:24:00 PM,R-10441,Drinks,Mango Juice 250ml,1,3000,3000
-28/11/2023,4:24:00 PM,R-10441,Drinks,Passion Juice 250ml,1,3000,3000
-28/11/2023,4:24:00 PM,R-10441,Drinks,Mango Juice 250ml,1,3000,3000
-28/11/2023,4:24:00 PM,R-10441,Drinks,Passion Juice 250ml,1,3000,3000
-28/11/2023,4:24:00 PM,R-10441,Takeaways,Standard Takeaway Charges,2,500,1000
-28/11/2023,4:24:00 PM,R-10441,Pastries,Brownies,1,4000,4000
-28/11/2023,4:24:00 PM,R-10440,Pastries,Plain Croissants,2,4000,8000
-28/11/2023,4:24:00 PM,R-10440,Takeaways,Standard Takeaway Charges,1,500,500
-28/11/2023,4:24:00 PM,R-10440,Drinks,Tropical Mix,1,8000,8000
-28/11/2023,4:23:00 PM,R-10439,Drinks,Americano,1,5000,5000
-28/11/2023,4:23:00 PM,R-10439,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-28/11/2023,3:25:00 PM,R-10438,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-28/11/2023,2:44:00 PM,R-10435,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-28/11/2023,2:44:00 PM,R-10434,Drinks,Immunity Juice,1,3000,3000
-28/11/2023,2:04:00 PM,R-10432,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-28/11/2023,2:04:00 PM,R-10432,Pastries,Plain Croissants,1,4000,4000
-28/11/2023,2:04:00 PM,R-10432,Pastries,Chocolate Croissants,1,4000,4000
-28/11/2023,2:04:00 PM,R-10432,Drinks,Bottled Soda,2,2000,4000
-28/11/2023,1:49:00 PM,R-10431,Takeaways,SW Chicken Tikka - Grab & Go,1,7600,7600
-28/11/2023,1:48:00 PM,R-10430,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
-28/11/2023,12:39:00 PM,R-10429,Consumeables Stock,Ginger Mint Tea,1,5000,5000
-28/11/2023,12:36:00 PM,R-10428,Consumeables Stock,Ginger Mint Tea,1,5000,5000
-28/11/2023,12:28:00 PM,R-10426,Drinks,Water,2,1000,2000
-28/11/2023,10:27:00 AM,R-10424,Drinks,Cafe Latte,1,5000,5000
-28/11/2023,10:27:00 AM,R-10424,Takeaways,Standard Takeaway Charges,1,500,500
-28/11/2023,9:06:00 AM,R-10422,Drinks,Americano,1,5000,5000
-28/11/2023,8:45:00 AM,R-10421,Drinks,Espresso,1,3000,3000
-27/11/2023,7:03:00 PM,R-10420,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-27/11/2023,7:03:00 PM,R-10420,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
-27/11/2023,7:03:00 PM,R-10420,Drinks,Americano,1,5000,5000
-27/11/2023,7:03:00 PM,R-10420,Drinks,Immunity Juice,1,3000,3000
-27/11/2023,7:03:00 PM,R-10420,Pastries,Cookies,3,1000,3000
-27/11/2023,7:03:00 PM,R-10420,Pastries,Kasata (seseme),1,3000,3000
-27/11/2023,7:03:00 PM,R-10420,Drinks,Ginger Knoc,1,4000,4000
-27/11/2023,7:18:00 PM,R-10419,Takeaways,SW Cheese & Tomato- Grab & Go,2,7500,15000
-27/11/2023,7:18:00 PM,R-10419,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-27/11/2023,7:18:00 PM,R-10419,Drinks,Water,2,1000,2000
-27/11/2023,7:18:00 PM,R-10419,Consumeables Stock,Pringles (Hot & Spicy),2,3500,7000
-27/11/2023,7:18:00 PM,R-10419,Consumeables Stock,Pringles (Original),1,3500,3500
-27/11/2023,6:04:00 PM,R-10418,Drinks,Kadak Chai,1,4500,4500
-27/11/2023,6:04:00 PM,R-10418,Drinks,Red Blush,1,3500,3500
-27/11/2023,5:32:00 PM,R-10417,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
-27/11/2023,3:44:00 PM,R-10415,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
-27/11/2023,3:44:00 PM,R-10415,Drinks,Bottled Soda,2,2000,4000
-27/11/2023,3:19:00 PM,R-10414,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-27/11/2023,3:19:00 PM,R-10414,Drinks,Mango Juice 250ml,1,3000,3000
-27/11/2023,3:19:00 PM,R-10414,Pastries,Kasata (seseme),1,3000,3000
-27/11/2023,2:55:00 PM,R-10413,Drinks,Capuccino,1,5000,5000
-27/11/2023,2:53:00 PM,R-10412,ZO Kitchen - Food,Chocolate Muffin,2,2500,5000
-27/11/2023,2:34:00 PM,R-10411,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-27/11/2023,2:21:00 PM,R-10409,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-27/11/2023,2:21:00 PM,R-10409,Drinks,Immunity Juice,1,3000,3000
-27/11/2023,1:41:00 PM,R-10407,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
-27/11/2023,1:23:00 PM,R-10406,Drinks,Cafe Latte,1,5000,5000
-27/11/2023,1:23:00 PM,R-10406,Drinks,Chai Latte,1,5000,5000
-27/11/2023,1:23:00 PM,R-10406,Consumeables Stock,Eggs only,1,6000,6000
-27/11/2023,1:18:00 PM,R-10405,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-27/11/2023,11:02:00 AM,R-10402,Drinks,Ginger Mint Fusion,1,4000,4000
-27/11/2023,11:02:00 AM,R-10402,Takeaways,Standard Takeaway Charges,1,500,500
-27/11/2023,10:13:00 AM,R-10401,Pastries,Cinnamon Roll,1,4000,4000
-27/11/2023,9:22:00 AM,R-10400,Drinks,Capuccino,1,5000,5000
-25/11/2023,4:01:00 PM,R-10399,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-25/11/2023,4:01:00 PM,R-10399,Drinks,Capuccino,1,5000,5000
-25/11/2023,4:01:00 PM,R-10399,Takeaways,Standard Takeaway Charges,1,500,500
-25/11/2023,3:05:00 PM,R-10398,Drinks,Mint Pinade,1,7500,7500
-25/11/2023,3:05:00 PM,R-10398,Drinks,Ginger Knoc,1,4000,4000
-25/11/2023,3:29:00 PM,R-10397,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-25/11/2023,3:29:00 PM,R-10397,Drinks,Bottled Soda,1,2000,2000
-25/11/2023,3:28:00 PM,R-10396,Drinks,Capuccino,1,5000,5000
-25/11/2023,3:28:00 PM,R-10396,Drinks,Immunity Juice,1,3000,3000
-25/11/2023,3:28:00 PM,R-10396,Takeaways,Standard Takeaway Charges,6,500,3000
-25/11/2023,3:28:00 PM,R-10396,Drinks,Caramel Latte,1,6000,6000
-25/11/2023,3:28:00 PM,R-10396,Pastries,Brownies,2,4000,8000
-25/11/2023,3:28:00 PM,R-10396,Drinks,Water,1,1000,1000
-25/11/2023,3:28:00 PM,R-10396,Consumeables Stock,Eggs only,1,6000,6000
-25/11/2023,3:28:00 PM,R-10396,Pastries,Cinnamon Roll,1,4000,4000
-25/11/2023,3:28:00 PM,R-10396,Drinks,Americano,1,5000,5000
-25/11/2023,3:02:00 PM,R-10395,Drinks,Cafe Latte,1,5000,5000
-25/11/2023,3:02:00 PM,R-10395,Pastries,Vanilla Muffins,1,2500,2500
-25/11/2023,1:24:00 PM,R-10393,Drinks,Caramel Shake,1,9000,9000
-25/11/2023,1:24:00 PM,R-10393,Takeaways,Standard Takeaway Charges,1,500,500
-25/11/2023,11:05:00 AM,R-10392,Drinks,Americano,1,5000,5000
-25/11/2023,11:48:00 AM,R-10391,Drinks,Capuccino,1,5000,5000
-25/11/2023,11:48:00 AM,R-10391,Consumeables Stock,Rosho Oat - Choco Brownie,1,5000,5000
-25/11/2023,11:08:00 AM,R-10389,Drinks,Water,1,1000,1000
-25/11/2023,10:51:00 AM,R-10388,Drinks,Immunity Juice,1,3000,3000
-25/11/2023,8:48:00 AM,R-10387,Drinks,Capuccino,1,5000,5000
-25/11/2023,8:48:00 AM,R-10387,Pastries,Kasata (seseme),1,3000,3000
-24/11/2023,8:19:00 PM,R-10386,Drinks,Cafe Latte,1,5000,5000
-24/11/2023,6:04:00 PM,R-10385,Drinks,Cafe Latte,1,5000,5000
-24/11/2023,6:04:00 PM,R-10385,Pastries,Kasata (seseme),1,3000,3000
-24/11/2023,6:39:00 PM,R-10384,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-24/11/2023,5:18:00 PM,R-10383,Consumeables Stock,Eggs only,1,6000,6000
-24/11/2023,5:18:00 PM,R-10383,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-24/11/2023,5:18:00 PM,R-10383,Drinks,Immunity Juice,1,3000,3000
-24/11/2023,5:18:00 PM,R-10383,Drinks,Red Blush,1,3500,3500
-24/11/2023,5:16:00 PM,R-10382,Drinks,Immunity Juice,1,3000,3000
-24/11/2023,4:45:00 PM,R-10380,Takeaways,SW Cheese & Tomato- Grab & Go,1,7500,7500
-24/11/2023,4:37:00 PM,R-10379,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-24/11/2023,4:37:00 PM,R-10379,Drinks,Water,1,1000,1000
-24/11/2023,4:37:00 PM,R-10379,Drinks,Immunity Juice,1,3000,3000
-24/11/2023,4:26:00 PM,R-10378,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-24/11/2023,4:26:00 PM,R-10378,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-24/11/2023,4:26:00 PM,R-10378,Drinks,Bottled Soda,1,2000,2000
-24/11/2023,4:26:00 PM,R-10378,Drinks,Passion Juice 250ml,1,3000,3000
-24/11/2023,4:26:00 PM,R-10378,Drinks,Immunity Juice,1,3000,3000
-24/11/2023,3:14:00 PM,R-10377,Drinks,Kadak Chai,1,4500,4500
-24/11/2023,3:14:00 PM,R-10377,Takeaways,Standard Takeaway Charges,1,500,500
-24/11/2023,3:14:00 PM,R-10377,Drinks,Bottled Soda,1,2000,2000
-24/11/2023,3:14:00 PM,R-10377,Consumeables Stock,Rosho Oat - Cinnamon,2,5000,10000
-24/11/2023,1:36:00 PM,R-10376,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-24/11/2023,1:36:00 PM,R-10376,Drinks,Immunity Juice,1,3000,3000
-24/11/2023,1:23:00 PM,R-10375,Drinks,Passion Juice 250ml,1,3000,3000
-24/11/2023,1:23:00 PM,R-10375,Takeaways,Standard Takeaway Charges,1,500,500
-24/11/2023,11:25:00 AM,R-10373,Pastries,Plain Croissants,1,4000,4000
-24/11/2023,11:25:00 AM,R-10373,Drinks,Red Blush,1,3500,3500
-24/11/2023,11:25:00 AM,R-10373,Drinks,Water,1,1000,1000
-24/11/2023,10:57:00 AM,R-10372,Drinks,Americano,1,5000,5000
-24/11/2023,10:57:00 AM,R-10372,Takeaways,Standard Takeaway Charges,1,500,500
-24/11/2023,10:39:00 AM,R-10371,Drinks,Espresso,1,3000,3000
-24/11/2023,10:39:00 AM,R-10371,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-24/11/2023,10:39:00 AM,R-10371,Pastries,Vanilla Muffins,1,2500,2500
-24/11/2023,9:03:00 AM,R-10370,Drinks,Americano,1,5000,5000
-24/11/2023,9:03:00 AM,R-10370,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-23/11/2023,6:51:00 PM,R-10369,Pastries,Cinnamon Roll,2,4000,8000
-23/11/2023,6:51:00 PM,R-10369,Pastries,Brownies,1,4000,4000
-23/11/2023,6:51:00 PM,R-10369,Drinks,Peanut Butter Smoothie,1,8000,8000
-23/11/2023,6:51:00 PM,R-10369,Drinks,Luxury Hot Chocolate,1,9000,9000
-23/11/2023,6:51:00 PM,R-10369,Drinks,Herbal Teas,1,4000,4000
-23/11/2023,6:04:00 PM,R-10368,Drinks,Immunity Juice,1,3000,3000
-23/11/2023,5:13:00 PM,R-10367,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-23/11/2023,5:07:00 PM,R-10366,Drinks,Capuccino,1,5000,5000
-23/11/2023,5:07:00 PM,R-10366,Drinks,Kadak Chai,1,4500,4500
-23/11/2023,5:07:00 PM,R-10366,Pastries,Brownies,2,4000,8000
-23/11/2023,4:57:00 PM,R-10365,Drinks,Bottled Soda,1,2000,2000
-23/11/2023,4:48:00 PM,R-10364,ZO Kitchen - Food,Chicken Stir Fry Noodles,2,11500,23000
-23/11/2023,4:48:00 PM,R-10364,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-23/11/2023,4:48:00 PM,R-10364,Takeaways,Standard Takeaway Charges,1,500,500
-23/11/2023,4:48:00 PM,R-10364,Drinks,Capuccino,1,5000,5000
-23/11/2023,4:44:00 PM,R-10363,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-23/11/2023,4:44:00 PM,R-10363,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-23/11/2023,4:44:00 PM,R-10363,Drinks,Bottled Soda,2,2000,4000
-23/11/2023,3:55:00 PM,R-10362,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-23/11/2023,3:55:00 PM,R-10362,Drinks,Water,1,1000,1000
-23/11/2023,3:54:00 PM,R-10361,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-23/11/2023,3:54:00 PM,R-10361,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-23/11/2023,3:54:00 PM,R-10361,Drinks,Bottled Soda,2,2000,4000
-23/11/2023,3:54:00 PM,R-10360,Pastries,Kasata (seseme),1,3000,3000
-23/11/2023,3:54:00 PM,R-10360,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-23/11/2023,3:54:00 PM,R-10360,Drinks,Bottled Soda,1,2000,2000
-23/11/2023,3:54:00 PM,R-10360,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-23/11/2023,3:54:00 PM,R-10360,Drinks,Immunity Juice,1,3000,3000
-23/11/2023,3:51:00 PM,R-10359,Consumeables Stock,Eggs only,1,6000,6000
-23/11/2023,3:51:00 PM,R-10359,Drinks,Red Blush,2,3500,7000
-23/11/2023,3:51:00 PM,R-10359,Takeaways,Standard Takeaway Charges,1,500,500
-23/11/2023,3:51:00 PM,R-10359,Consumeables Stock,Pringles (Hot & Spicy),1,3500,3500
-23/11/2023,3:51:00 PM,R-10359,Drinks,Capuccino,1,5000,5000
-23/11/2023,3:05:00 PM,R-10356,Drinks,Water,1,1000,1000
-23/11/2023,3:05:00 PM,R-10356,Drinks,Mango Juice 250ml,1,3000,3000
-23/11/2023,3:05:00 PM,R-10356,Pastries,Vanilla Muffins,1,2500,2500
-23/11/2023,3:02:00 PM,R-10355,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-23/11/2023,3:02:00 PM,R-10355,Pastries,Kasata (seseme),1,3000,3000
-23/11/2023,3:02:00 PM,R-10355,Drinks,Mango Juice 250ml,1,3000,3000
-23/11/2023,2:54:00 PM,R-10354,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-23/11/2023,1:53:00 PM,R-10352,Drinks,Capuccino,1,5000,5000
-23/11/2023,1:53:00 PM,R-10352,Takeaways,Standard Takeaway Charges,1,500,500
-23/11/2023,1:53:00 PM,R-10352,Drinks,Water,1,1000,1000
-23/11/2023,1:32:00 PM,R-10350,Drinks,Water,1,1000,1000
-23/11/2023,1:31:00 PM,R-10349,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
-23/11/2023,12:59:00 PM,R-10348,Pastries,Chocolate Croissants,1,4000,4000
-23/11/2023,12:23:00 PM,R-10347,Drinks,Bottled Soda,2,2000,4000
-23/11/2023,12:23:00 PM,R-10347,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-23/11/2023,12:23:00 PM,R-10347,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-23/11/2023,12:11:00 PM,R-10345,Drinks,Americano,1,5000,5000
-23/11/2023,12:11:00 PM,R-10345,Drinks,Cafe Latte,1,5000,5000
-23/11/2023,12:11:00 PM,R-10345,Takeaways,Standard Takeaway Charges,2,500,1000
-23/11/2023,12:11:00 PM,R-10344,Drinks,Immunity Juice,2,3000,6000
-23/11/2023,11:05:00 AM,R-10343,Drinks,Americano,1,5000,5000
-23/11/2023,9:05:00 AM,R-10342,Drinks,Tropical Mix,1,8000,8000
-23/11/2023,9:05:00 AM,R-10342,Takeaways,Standard Takeaway Charges,1,500,500
-23/11/2023,9:28:00 AM,R-10341,Drinks,Bottled Soda,1,2000,2000
-23/11/2023,9:17:00 AM,R-10340,Drinks,Capuccino,1,5000,5000
-22/11/2023,7:24:00 PM,R-10339,Pastries,Kasata (seseme),1,3000,3000
-22/11/2023,7:24:00 PM,R-10339,Pastries,Cookies,1,1000,1000
-22/11/2023,6:53:00 PM,R-10338,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-22/11/2023,5:02:00 PM,R-10337,Drinks,Immunity Juice,1,3000,3000
-22/11/2023,5:16:00 PM,R-10336,Pastries,Brownies,2,4000,8000
-22/11/2023,5:15:00 PM,R-10335,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
-22/11/2023,5:15:00 PM,R-10335,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
-22/11/2023,5:15:00 PM,R-10335,Drinks,Mango Juice 250ml,2,3000,6000
-22/11/2023,5:15:00 PM,R-10335,Drinks,Passion Juice 250ml,1,3000,3000
-22/11/2023,4:23:00 PM,R-10334,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
-22/11/2023,4:23:00 PM,R-10334,Drinks,Capuccino,1,5000,5000
-22/11/2023,4:23:00 PM,R-10334,Takeaways,Standard Takeaway Charges,1,500,500
-22/11/2023,4:23:00 PM,R-10333,Drinks,Water,4,1000,4000
-22/11/2023,3:44:00 PM,R-10332,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-22/11/2023,3:44:00 PM,R-10332,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-22/11/2023,3:44:00 PM,R-10332,Drinks,Bottled Soda,2,2000,4000
-22/11/2023,3:43:00 PM,R-10331,Drinks,Water,3,1000,3000
-22/11/2023,3:43:00 PM,R-10331,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-22/11/2023,3:43:00 PM,R-10331,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-22/11/2023,3:43:00 PM,R-10331,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-22/11/2023,3:43:00 PM,R-10331,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-22/11/2023,1:31:00 PM,R-10327,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-22/11/2023,1:25:00 PM,R-10326,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-22/11/2023,1:15:00 PM,R-10325,Drinks,Kadak Chai,1,4500,4500
-22/11/2023,12:57:00 PM,R-10324,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-22/11/2023,12:24:00 PM,R-10323,Pastries,Kasata (seseme),1,3000,3000
-22/11/2023,12:24:00 PM,R-10323,Takeaways,SW Cheese & Tomato- Grab & Go,1,7500,7500
-22/11/2023,11:47:00 AM,R-10322,Drinks,Capuccino,1,5000,5000
-22/11/2023,11:47:00 AM,R-10322,Pastries,Cinnamon Roll,1,4000,4000
-22/11/2023,11:46:00 AM,R-10321,Drinks,Capuccino,1,5000,5000
-22/11/2023,11:46:00 AM,R-10321,Pastries,Kasata (seseme),1,3000,3000
-22/11/2023,11:46:00 AM,R-10321,Takeaways,SW Cheese & Tomato- Grab & Go,1,7500,7500
-22/11/2023,11:07:00 AM,R-10319,Drinks,Americano,1,5000,5000
-22/11/2023,11:07:00 AM,R-10319,Takeaways,Standard Takeaway Charges,1,500,500
-22/11/2023,10:11:00 AM,R-10318,Drinks,Capuccino,1,5000,5000
-22/11/2023,9:23:00 AM,R-10317,Drinks,Americano,1,5000,5000
-22/11/2023,8:22:00 AM,R-10316,Drinks,Espresso,1,3000,3000
-21/11/2023,7:19:00 PM,R-10315,Drinks,Ginger Knoc,1,4000,4000
-21/11/2023,5:45:00 PM,R-10314,Drinks,Kadak Chai,1,4500,4500
-21/11/2023,5:45:00 PM,R-10314,Pastries,Plain Croissants,1,4000,4000
-21/11/2023,4:05:00 PM,R-10313,Drinks,Chai Latte,1,5000,5000
-21/11/2023,4:05:00 PM,R-10313,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-21/11/2023,4:49:00 PM,R-10312,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-21/11/2023,4:49:00 PM,R-10312,Drinks,Mango Juice 250ml,1,3000,3000
-21/11/2023,4:24:00 PM,R-10311,Drinks,Americano,1,5000,5000
-21/11/2023,4:24:00 PM,R-10311,Takeaways,Standard Takeaway Charges,1,500,500
-21/11/2023,4:24:00 PM,R-10310,Drinks,Capuccino,1,5000,5000
-21/11/2023,3:01:00 PM,R-10308,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-21/11/2023,3:01:00 PM,R-10308,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
-21/11/2023,3:01:00 PM,R-10308,Drinks,Bottled Soda,3,2000,6000
-21/11/2023,2:48:00 PM,R-10307,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-21/11/2023,1:45:00 PM,R-10305,Drinks,Kadak Chai,1,4500,4500
-21/11/2023,1:45:00 PM,R-10305,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-21/11/2023,1:45:00 PM,R-10304,Drinks,Capuccino,1,5000,5000
-21/11/2023,12:04:00 PM,R-10303,Drinks,Luxury Hot Chocolate,1,9000,9000
-21/11/2023,12:04:00 PM,R-10302,Drinks,Capuccino,1,5000,5000
-21/11/2023,12:04:00 PM,R-10302,Drinks,Tropical Mix,1,8000,8000
-21/11/2023,12:04:00 PM,R-10302,Pastries,Chocolate Croissants,1,4000,4000
-21/11/2023,12:04:00 PM,R-10301,Pastries,Vanilla Muffins,1,2500,2500
-21/11/2023,9:37:00 AM,R-10299,Drinks,Strawberry Mojito,1,10000,10000
-21/11/2023,9:37:00 AM,R-10299,Takeaways,Standard Takeaway Charges,1,500,500
-21/11/2023,8:13:00 AM,R-10298,Drinks,Espresso,1,3000,3000
-20/11/2023,6:03:00 PM,R-10297,Drinks,Immunity Juice,1,3000,3000
-20/11/2023,5:49:00 PM,R-10296,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-20/11/2023,5:49:00 PM,R-10296,Drinks,Bottled Soda,1,2000,2000
-20/11/2023,5:49:00 PM,R-10296,Takeaways,Standard Takeaway Charges,1,500,500
-20/11/2023,3:58:00 PM,R-10294,Consumeables Stock,Eggs only,1,6000,6000
-20/11/2023,3:58:00 PM,R-10293,Drinks,Americano,1,5000,5000
-20/11/2023,3:58:00 PM,R-10293,Drinks,Immunity Juice,1,3000,3000
-20/11/2023,3:44:00 PM,R-10292,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-20/11/2023,3:44:00 PM,R-10292,Drinks,Kadak Chai,2,4500,9000
-20/11/2023,3:43:00 PM,R-10291,Drinks,Immunity Juice,1,3000,3000
-20/11/2023,3:43:00 PM,R-10291,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
-20/11/2023,3:43:00 PM,R-10291,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
-20/11/2023,3:43:00 PM,R-10291,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-20/11/2023,3:43:00 PM,R-10291,Drinks,Cafe Latte,1,5000,5000
-20/11/2023,3:43:00 PM,R-10291,Drinks,Water,1,1000,1000
-20/11/2023,3:35:00 PM,R-10290,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-20/11/2023,3:35:00 PM,R-10290,Takeaways,Standard Takeaway Charges,1,500,500
-20/11/2023,3:35:00 PM,R-10290,Drinks,Passion Juice 250ml,1,3000,3000
-20/11/2023,3:11:00 PM,R-10289,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-20/11/2023,3:11:00 PM,R-10289,Drinks,Capuccino,1,5000,5000
-20/11/2023,3:11:00 PM,R-10289,Drinks,Ginger Knoc,1,4000,4000
-20/11/2023,3:01:00 PM,R-10288,ZO Kitchen - Food,Butter chicken and rice,2,11500,23000
-20/11/2023,3:01:00 PM,R-10288,Drinks,Bottled Soda,2,2000,4000
-20/11/2023,2:24:00 PM,R-10286,Drinks,Bottled Soda,1,2000,2000
-20/11/2023,12:34:00 PM,R-10284,Drinks,Americano,1,5000,5000
-20/11/2023,12:34:00 PM,R-10284,Takeaways,Standard Takeaway Charges,1,500,500
-20/11/2023,12:33:00 PM,R-10283,Drinks,Luxury Hot Chocolate,1,9000,9000
-20/11/2023,12:33:00 PM,R-10283,Drinks,Passion Juice 250ml,1,3000,3000
-20/11/2023,12:33:00 PM,R-10283,Takeaways,Standard Takeaway Charges,2,500,1000
-20/11/2023,10:51:00 AM,R-10282,Pastries,Cinnamon Roll,2,4000,8000
-20/11/2023,10:51:00 AM,R-10282,Drinks,Mango Juice 250ml,1,3000,3000
-20/11/2023,10:51:00 AM,R-10282,Takeaways,Standard Takeaway Charges,1,500,500
-20/11/2023,9:31:00 AM,R-10280,Drinks,Capuccino,1,5000,5000
-20/11/2023,9:31:00 AM,R-10280,Takeaways,Standard Takeaway Charges,1,500,500
-20/11/2023,9:09:00 AM,R-10279,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-20/11/2023,9:09:00 AM,R-10279,Drinks,Espresso,1,3000,3000
-20/11/2023,8:53:00 AM,R-10278,Drinks,Capuccino,1,5000,5000
-20/11/2023,8:53:00 AM,R-10278,Takeaways,Standard Takeaway Charges,2,500,1000
-20/11/2023,8:53:00 AM,R-10278,Drinks,Capuccino,1,5000,5000
-18/11/2023,3:11:00 PM,R-10277,Drinks,Bottled Soda,2,2000,4000
-18/11/2023,2:23:00 PM,R-10275,Drinks,Capuccino,1,5000,5000
-18/11/2023,2:23:00 PM,R-10275,Takeaways,Standard Takeaway Charges,1,500,500
-18/11/2023,2:23:00 PM,R-10275,Pastries,Cinnamon Roll,1,4000,4000
-17/11/2023,7:31:00 PM,R-10273,Drinks,Ginger Mint Fusion,1,4000,4000
-17/11/2023,7:31:00 PM,R-10273,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-17/11/2023,7:31:00 PM,R-10273,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-17/11/2023,7:31:00 PM,R-10273,Pastries,Brownies,1,4000,4000
-17/11/2023,7:31:00 PM,R-10273,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-17/11/2023,7:31:00 PM,R-10273,Drinks,Ginger Mint Fusion,1,4000,4000
-17/11/2023,7:31:00 PM,R-10273,Pastries,Brownies,1,4000,4000
-17/11/2023,7:31:00 PM,R-10273,Takeaways,Standard Takeaway Charges,1,500,500
-17/11/2023,6:49:00 PM,R-10272,Drinks,Iced Tea,1,8000,8000
-17/11/2023,6:49:00 PM,R-10272,Drinks,Capuccino,1,5000,5000
-17/11/2023,5:49:00 PM,R-10271,Drinks,Water,1,1000,1000
-17/11/2023,5:49:00 PM,R-10271,Drinks,Passion Juice 250ml,1,3000,3000
-17/11/2023,5:49:00 PM,R-10270,Drinks,Cafe Latte,1,5000,5000
-17/11/2023,5:49:00 PM,R-10270,Takeaways,Standard Takeaway Charges,1,500,500
-17/11/2023,5:48:00 PM,R-10269,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-17/11/2023,5:48:00 PM,R-10269,Drinks,Ginger Knoc,1,4000,4000
-17/11/2023,5:11:00 PM,R-10268,Drinks,Capuccino,1,5000,5000
-17/11/2023,5:11:00 PM,R-10268,Takeaways,Standard Takeaway Charges,1,500,500
-17/11/2023,5:01:00 PM,R-10267,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-17/11/2023,5:01:00 PM,R-10267,Drinks,Water,1,1000,1000
-17/11/2023,4:57:00 PM,R-10266,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
-17/11/2023,4:57:00 PM,R-10266,Takeaways,Standard Takeaway Charges,1,500,500
-17/11/2023,4:57:00 PM,R-10266,Drinks,Mango Juice 250ml,1,3000,3000
-17/11/2023,4:57:00 PM,R-10266,Drinks,Passion Juice 250ml,1,3000,3000
-17/11/2023,4:54:00 PM,R-10265,Drinks,Ginger Knoc,1,4000,4000
-17/11/2023,4:54:00 PM,R-10265,Takeaways,Standard Takeaway Charges,1,500,500
-17/11/2023,4:45:00 PM,R-10264,Drinks,Kadak Chai,2,4500,9000
-17/11/2023,3:36:00 PM,R-10263,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-17/11/2023,2:45:00 PM,R-10262,ZO Kitchen - Food,Chicken Fried Rice,3,11500,34500
-17/11/2023,2:45:00 PM,R-10262,Drinks,Water,2,1000,2000
-17/11/2023,2:03:00 PM,R-10261,Pastries,Cinnamon Roll,1,4000,4000
-17/11/2023,2:01:00 PM,R-10260,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-17/11/2023,2:00:00 PM,R-10259,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-17/11/2023,12:01:00 PM,R-10257,Drinks,Water,5,1000,5000
-17/11/2023,11:49:00 AM,R-10255,Drinks,Capuccino,1,5000,5000
-17/11/2023,10:05:00 AM,R-10254,Drinks,Capuccino,1,5000,5000
-17/11/2023,10:05:00 AM,R-10254,Takeaways,Standard Takeaway Charges,1,500,500
-17/11/2023,10:12:00 AM,R-10253,Drinks,Americano,1,5000,5000
-17/11/2023,9:44:00 AM,R-10252,Drinks,Kadak Chai,1,4500,4500
-17/11/2023,8:19:00 AM,R-10251,Drinks,Espresso,1,3000,3000
-17/11/2023,8:19:00 AM,R-10251,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-16/11/2023,5:49:00 PM,R-10250,Drinks,Capuccino,1,5000,5000
-16/11/2023,5:49:00 PM,R-10250,Takeaways,Standard Takeaway Charges,1,500,500
-16/11/2023,4:22:00 PM,R-10248,Drinks,Ginger Mint Fusion,1,4000,4000
-16/11/2023,4:22:00 PM,R-10248,Drinks,Kilimanjaro Green Tea,1,4000,4000
-16/11/2023,4:22:00 PM,R-10248,Pastries,Vanilla Muffins,1,2500,2500
-16/11/2023,4:22:00 PM,R-10248,Drinks,Americano,1,5000,5000
-16/11/2023,4:22:00 PM,R-10248,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-16/11/2023,3:58:00 PM,R-10247,Drinks,Kadak Chai,1,4500,4500
-16/11/2023,3:58:00 PM,R-10247,Drinks,Water,1,1000,1000
-16/11/2023,3:58:00 PM,R-10247,Drinks,Bottled Soda,1,2000,2000
-16/11/2023,3:58:00 PM,R-10247,Drinks,Water,1,1000,1000
-16/11/2023,3:37:00 PM,R-10245,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-16/11/2023,3:37:00 PM,R-10245,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-16/11/2023,3:37:00 PM,R-10245,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-16/11/2023,3:37:00 PM,R-10245,Drinks,Bottled Soda,3,2000,6000
-16/11/2023,3:15:00 PM,R-10244,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-16/11/2023,3:15:00 PM,R-10244,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-16/11/2023,3:15:00 PM,R-10244,Drinks,Immunity Juice,4,3000,12000
-16/11/2023,3:15:00 PM,R-10244,Drinks,Mango Juice 250ml,1,3000,3000
-16/11/2023,3:13:00 PM,R-10243,Drinks,Berry Cool,1,10000,10000
-16/11/2023,3:13:00 PM,R-10243,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-16/11/2023,3:13:00 PM,R-10243,Pastries,Brownies,2,4000,8000
-16/11/2023,3:08:00 PM,R-10242,Drinks,Americano,1,5000,5000
-16/11/2023,1:46:00 PM,R-10240,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-16/11/2023,1:46:00 PM,R-10240,Pastries,Kasata (seseme),1,3000,3000
-16/11/2023,1:46:00 PM,R-10240,Drinks,Mango Juice 250ml,1,3000,3000
-16/11/2023,1:23:00 PM,R-10238,Drinks,Water,1,1000,1000
-16/11/2023,1:22:00 PM,R-10237,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
-16/11/2023,1:15:00 PM,R-10236,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-16/11/2023,11:12:00 AM,R-10235,Consumeables Stock,Eggs only,1,6000,6000
-16/11/2023,11:12:00 AM,R-10235,Pastries,Cinnamon Roll,1,4000,4000
-16/11/2023,11:11:00 AM,R-10234,Consumeables Stock,Eggs only,1,6000,6000
-16/11/2023,11:11:00 AM,R-10234,Drinks,Americano,1,5000,5000
-16/11/2023,11:11:00 AM,R-10234,Consumeables Stock,Pringles (Hot & Spicy),1,3500,3500
-16/11/2023,11:11:00 AM,R-10234,Drinks,Immunity Juice,1,3000,3000
-16/11/2023,10:21:00 AM,R-10233,Drinks,Americano,2,5000,10000
-16/11/2023,10:21:00 AM,R-10233,Takeaways,Standard Takeaway Charges,2,500,1000
-16/11/2023,10:02:00 AM,R-10232,Drinks,Espresso,1,3000,3000
-16/11/2023,10:02:00 AM,R-10232,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-16/11/2023,10:02:00 AM,R-10231,Drinks,Americano,1,5000,5000
-15/11/2023,5:28:00 PM,R-10230,Drinks,Espresso,1,3000,3000
-15/11/2023,5:28:00 PM,R-10229,Drinks,Mango Juice 250ml,1,3000,3000
-15/11/2023,5:28:00 PM,R-10229,Pastries,Kasata (seseme),1,3000,3000
-15/11/2023,5:23:00 PM,R-10228,ZO Kitchen - Food,Butter chicken and rice,2,11500,23000
-15/11/2023,5:23:00 PM,R-10228,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-15/11/2023,5:23:00 PM,R-10228,Drinks,Kilimanjaro Green Tea,1,4000,4000
-15/11/2023,5:23:00 PM,R-10228,Drinks,Cinnamon Spice,1,4000,4000
-15/11/2023,5:23:00 PM,R-10228,Drinks,Mango Juice 250ml,1,3000,3000
-15/11/2023,5:23:00 PM,R-10228,Drinks,Passion Juice 250ml,1,3000,3000
-15/11/2023,5:23:00 PM,R-10228,Drinks,Turmeric Latte,1,7000,7000
-15/11/2023,5:16:00 PM,R-10227,Pastries,Cookies,2,1000,2000
-15/11/2023,5:16:00 PM,R-10226,Pastries,Cookies,2,1000,2000
-15/11/2023,4:52:00 PM,R-10225,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-15/11/2023,4:52:00 PM,R-10225,Drinks,Mango Juice 250ml,1,3000,3000
-15/11/2023,4:52:00 PM,R-10225,Drinks,Passion Juice 250ml,1,3000,3000
-15/11/2023,4:52:00 PM,R-10225,Takeaways,Standard Takeaway Charges,1,500,500
-15/11/2023,4:52:00 PM,R-10225,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-15/11/2023,4:01:00 PM,R-10224,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-15/11/2023,4:01:00 PM,R-10224,Drinks,Espresso,1,3000,3000
-15/11/2023,2:59:00 PM,R-10222,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-15/11/2023,2:59:00 PM,R-10222,Pastries,Plain Croissants,1,4000,4000
-15/11/2023,2:59:00 PM,R-10222,Drinks,Ginger Mint Fusion,1,4000,4000
-15/11/2023,2:34:00 PM,R-10221,Drinks,Kadak Chai,3,4500,13500
-15/11/2023,2:34:00 PM,R-10221,Takeaways,Standard Takeaway Charges,3,500,1500
-15/11/2023,2:04:00 PM,R-10219,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-15/11/2023,1:36:00 PM,R-10218,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-15/11/2023,12:19:00 PM,R-10216,Pastries,Vanilla Muffins,1,2500,2500
-15/11/2023,12:09:00 PM,R-10215,Drinks,Cafe Latte,1,5000,5000
-15/11/2023,12:04:00 PM,R-10214,Drinks,Mango Juice 250ml,1,3000,3000
-15/11/2023,12:04:00 PM,R-10214,Takeaways,Standard Takeaway Charges,1,500,500
-15/11/2023,11:35:00 AM,R-10213,Drinks,Cafe Latte,1,5000,5000
-15/11/2023,11:35:00 AM,R-10213,Takeaways,Standard Takeaway Charges,1,500,500
-15/11/2023,11:18:00 AM,R-10212,Consumeables Stock,Eggs only,1,6000,6000
-15/11/2023,11:18:00 AM,R-10212,Pastries,Cookies,2,1000,2000
-15/11/2023,11:15:00 AM,R-10211,Consumeables Stock,Eggs only,1,6000,6000
-15/11/2023,11:15:00 AM,R-10211,Drinks,Americano,1,5000,5000
-15/11/2023,11:15:00 AM,R-10211,Drinks,Immunity Juice,1,3000,3000
-15/11/2023,11:15:00 AM,R-10211,Takeaways,Standard Takeaway Charges,1,500,500
-15/11/2023,10:24:00 AM,R-10209,Drinks,Espresso,1,3000,3000
-15/11/2023,10:24:00 AM,R-10209,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-15/11/2023,9:34:00 AM,R-10208,Pastries,Cookies,1,1000,1000
-15/11/2023,9:32:00 AM,R-10207,Drinks,Caramel Latte,1,6000,6000
-15/11/2023,9:32:00 AM,R-10207,Takeaways,Standard Takeaway Charges,1,500,500
-15/11/2023,9:19:00 AM,R-10206,Drinks,Immunity Juice,1,3000,3000
-15/11/2023,9:17:00 AM,R-10205,Drinks,Capuccino,1,5000,5000
-15/11/2023,8:32:00 AM,R-10204,Drinks,Americano,1,5000,5000
-15/11/2023,8:32:00 AM,R-10204,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-14/11/2023,6:09:00 PM,R-10203,Drinks,Cafe Latte,1,5000,5000
-14/11/2023,6:09:00 PM,R-10203,Pastries,Kasata (seseme),1,3000,3000
-14/11/2023,4:44:00 PM,R-10201,Drinks,Espresso,1,3000,3000
-14/11/2023,3:11:00 PM,R-10200,Drinks,Immunity Juice,1,3000,3000
-14/11/2023,3:11:00 PM,R-10200,Drinks,Capuccino,1,5000,5000
-14/11/2023,2:57:00 PM,R-10199,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-14/11/2023,2:57:00 PM,R-10199,Drinks,Mango Juice 250ml,1,3000,3000
-14/11/2023,2:57:00 PM,R-10199,Drinks,Passion Juice 250ml,1,3000,3000
-14/11/2023,2:57:00 PM,R-10199,Takeaways,Standard Takeaway Charges,1,500,500
-14/11/2023,2:41:00 PM,R-10198,Drinks,Ginger Knoc,1,4000,4000
-14/11/2023,2:41:00 PM,R-10198,Drinks,Bottled Soda,2,2000,4000
-14/11/2023,2:41:00 PM,R-10198,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-14/11/2023,2:41:00 PM,R-10198,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-14/11/2023,2:29:00 PM,R-10196,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-14/11/2023,2:29:00 PM,R-10196,Drinks,Cafe Latte,1,5000,5000
-14/11/2023,2:29:00 PM,R-10196,Pastries,Chocolate Croissants,1,4000,4000
-14/11/2023,2:29:00 PM,R-10196,Takeaways,Standard Takeaway Charges,1,500,500
-14/11/2023,2:25:00 PM,R-10195,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-14/11/2023,2:23:00 PM,R-10194,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-14/11/2023,2:23:00 PM,R-10194,Drinks,Mango Juice 250ml,1,3000,3000
-14/11/2023,2:23:00 PM,R-10193,Drinks,Cafe Latte,2,5000,10000
-14/11/2023,2:23:00 PM,R-10193,Pastries,Plain Croissants,1,4000,4000
-14/11/2023,2:19:00 PM,R-10192,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-14/11/2023,1:34:00 PM,R-10190,Drinks,Water,1,1000,1000
-14/11/2023,1:34:00 PM,R-10189,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
-14/11/2023,1:29:00 PM,R-10188,ZO Kitchen - Food,Butter chicken and rice,1,9200,9200
-14/11/2023,1:22:00 PM,R-10187,Pastries,Brownies,2,4000,8000
-14/11/2023,1:21:00 PM,R-10186,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-14/11/2023,1:17:00 PM,R-10185,Drinks,Mint Pinade,1,7500,7500
-14/11/2023,1:17:00 PM,R-10185,Drinks,Ginger Mint Fusion,1,4000,4000
-14/11/2023,1:17:00 PM,R-10185,Takeaways,Standard Takeaway Charges,2,500,1000
-14/11/2023,12:31:00 PM,R-10184,Takeaways,SW Chicken Tikka - Grab & Go,2,9500,19000
-14/11/2023,12:31:00 PM,R-10184,Drinks,Capuccino,1,5000,5000
-14/11/2023,12:31:00 PM,R-10184,Drinks,Caramel Latte,1,6000,6000
-14/11/2023,11:28:00 AM,R-10183,Drinks,Americano,1,5000,5000
-14/11/2023,11:28:00 AM,R-10183,Takeaways,Standard Takeaway Charges,1,500,500
-14/11/2023,10:46:00 AM,R-10182,Pastries,Cinnamon Roll,1,4000,4000
-14/11/2023,10:05:00 AM,R-10181,Pastries,Cinnamon Roll,1,4000,4000
-14/11/2023,9:38:00 AM,R-10180,Drinks,Americano,1,5000,5000
-14/11/2023,9:37:00 AM,R-10179,Pastries,Brownies,1,4000,4000
-14/11/2023,9:02:00 AM,R-10178,Drinks,Espresso,1,3000,3000
-13/11/2023,7:02:00 PM,R-10177,Pastries,Cinnamon Roll,1,4000,4000
-13/11/2023,7:02:00 PM,R-10177,Pastries,Kasata (seseme),1,3000,3000
-13/11/2023,7:02:00 PM,R-10177,Pastries,Cookies,1,1000,1000
-13/11/2023,7:02:00 PM,R-10177,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-13/11/2023,4:55:00 PM,R-10176,Drinks,Hill Water (Lemon and Mint),1,4500,4500
-13/11/2023,4:07:00 PM,R-10175,Pastries,Brownies,1,4000,4000
-13/11/2023,4:07:00 PM,R-10175,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-13/11/2023,4:07:00 PM,R-10175,Drinks,Chai Latte,1,5000,5000
-13/11/2023,4:07:00 PM,R-10175,Drinks,Espresso Macchiato,1,4500,4500
-13/11/2023,3:49:00 PM,R-10173,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-13/11/2023,3:49:00 PM,R-10173,Drinks,Red Blush,1,3500,3500
-13/11/2023,3:22:00 PM,R-10172,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-13/11/2023,3:22:00 PM,R-10172,Drinks,Bottled Soda,1,2000,2000
-13/11/2023,3:22:00 PM,R-10172,Takeaways,Standard Takeaway Charges,1,500,500
-13/11/2023,2:55:00 PM,R-10170,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-13/11/2023,2:18:00 PM,R-10167,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
-13/11/2023,2:18:00 PM,R-10167,Drinks,Immunity Juice,1,3000,3000
-13/11/2023,2:18:00 PM,R-10167,Drinks,Mango Juice 250ml,1,3000,3000
-13/11/2023,2:18:00 PM,R-10167,Drinks,Passion Juice 250ml,1,3000,3000
-13/11/2023,2:17:00 PM,R-10166,Pastries,Chocolate Croissants,2,4000,8000
-13/11/2023,12:57:00 PM,R-10163,Drinks,Water,3,1000,3000
-13/11/2023,12:36:00 PM,R-10162,Drinks,Bottled Soda,1,2000,2000
-13/11/2023,12:03:00 PM,R-10161,Drinks,Capuccino,1,5000,5000
-13/11/2023,11:37:00 AM,R-10160,Takeaways,Standard Takeaway Charges,1,500,500
-13/11/2023,11:08:00 AM,R-10158,Drinks,Capuccino,1,5000,5000
-13/11/2023,11:08:00 AM,R-10158,Takeaways,Standard Takeaway Charges,1,500,500
-13/11/2023,10:45:00 AM,R-10157,Pastries,Cookies,1,1000,1000
-13/11/2023,10:01:00 AM,R-10156,Drinks,Espresso,1,3000,3000
-13/11/2023,10:01:00 AM,R-10156,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-13/11/2023,9:03:00 AM,R-10155,Drinks,Ginger Knoc,1,4000,4000
-13/11/2023,9:03:00 AM,R-10155,Takeaways,Standard Takeaway Charges,1,500,500
-13/11/2023,9:03:00 AM,R-10154,Drinks,Americano,1,5000,5000
+11/30/2023,7:31:00 PM,R-10500,Drinks,Capuccino,1,5000,5000
+11/30/2023,7:31:00 PM,R-10500,Takeaways,Standard Takeaway Charges,1,500,500
+11/30/2023,7:31:00 PM,R-10499,Drinks,Bottled Soda,1,2000,2000
+11/30/2023,7:25:00 PM,R-10498,Drinks,Immunity Juice,1,3000,3000
+11/30/2023,5:36:00 PM,R-10497,Drinks,Capuccino,2,5000,10000
+11/30/2023,5:36:00 PM,R-10497,Pastries,Cookies,3,1000,3000
+11/30/2023,5:33:00 PM,R-10496,Pastries,Cinnamon Roll,1,4000,4000
+11/30/2023,5:33:00 PM,R-10496,Pastries,Plain Croissants,1,4000,4000
+11/30/2023,5:33:00 PM,R-10496,Drinks,Kadak Chai,1,4500,4500
+11/30/2023,5:33:00 PM,R-10496,Drinks,Espresso,1,3000,3000
+11/30/2023,5:19:00 PM,R-10495,Drinks,Hill Water (Lemon and Mint),1,4500,4500
+11/30/2023,5:19:00 PM,R-10495,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/30/2023,5:05:00 PM,R-10494,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/30/2023,5:05:00 PM,R-10494,Drinks,Red Blush,1,3500,3500
+11/30/2023,5:05:00 PM,R-10494,Drinks,Water,1,1000,1000
+11/30/2023,5:05:00 PM,R-10494,Drinks,Strawberry Classic Shake,1,9000,9000
+11/30/2023,5:03:00 PM,R-10493,Drinks,Mango Juice 250ml,1,3000,3000
+11/30/2023,5:03:00 PM,R-10493,Takeaways,Standard Takeaway Charges,1,500,500
+11/30/2023,4:59:00 PM,R-10492,Drinks,Passion Juice 250ml,1,3000,3000
+11/30/2023,4:59:00 PM,R-10492,Drinks,Water,1,1000,1000
+11/30/2023,4:59:00 PM,R-10492,Drinks,Mint Pinade,1,7500,7500
+11/30/2023,4:59:00 PM,R-10492,Drinks,Peanut Butter Smoothie,1,8000,8000
+11/30/2023,4:59:00 PM,R-10492,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/30/2023,4:59:00 PM,R-10492,Pastries,Kasata (seseme),1,3000,3000
+11/30/2023,4:14:00 PM,R-10491,Drinks,Mango Juice 250ml,1,3000,3000
+11/30/2023,4:00:00 PM,R-10489,Pastries,Brownies,1,4000,4000
+11/30/2023,4:00:00 PM,R-10489,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/30/2023,3:11:00 PM,R-10488,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
+11/30/2023,3:11:00 PM,R-10488,Drinks,Bottled Soda,1,2000,2000
+11/30/2023,2:57:00 PM,R-10487,Pastries,Cinnamon Roll,1,4000,4000
+11/30/2023,2:51:00 PM,R-10486,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/30/2023,2:51:00 PM,R-10486,Drinks,Immunity Juice,1,3000,3000
+11/30/2023,2:05:00 PM,R-10485,Pastries,Brownies,1,4000,4000
+11/30/2023,2:03:00 PM,R-10483,Drinks,Bottled Soda,1,2000,2000
+11/30/2023,2:03:00 PM,R-10483,Consumeables Stock,Rosho Oat - Choco Brownie,1,5000,5000
+11/30/2023,2:03:00 PM,R-10483,Takeaways,Standard Takeaway Charges,1,500,500
+11/30/2023,1:31:00 PM,R-10481,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
+11/30/2023,12:44:00 PM,R-10480,ZO Kitchen - Food,Breakfast (Eggs Your way),2,12000,24000
+11/30/2023,12:44:00 PM,R-10480,ZO Kitchen - Food,ADD on: Mushrooms,2,1500,3000
+11/30/2023,12:44:00 PM,R-10480,Drinks,Espresso,1,3000,3000
+11/30/2023,12:44:00 PM,R-10480,Consumeables Stock,Rosho Oat - Mocha,1,5000,5000
+11/30/2023,12:44:00 PM,R-10480,Pastries,Chocolate Croissants,1,4000,4000
+11/30/2023,12:39:00 PM,R-10479,ZO Kitchen - Food,Breakfast (Eggs Your way),1,12000,12000
+11/30/2023,12:39:00 PM,R-10479,Drinks,Kadak Chai,1,4500,4500
+11/30/2023,12:38:00 PM,R-10478,Drinks,Capuccino,2,5000,10000
+11/30/2023,12:36:00 PM,R-10477,Drinks,Espresso,1,3000,3000
+11/30/2023,11:06:00 AM,R-10476,Drinks,Capuccino,1,5000,5000
+11/30/2023,10:42:00 AM,R-10475,Pastries,Plain Croissants,1,4000,4000
+11/30/2023,9:04:00 AM,R-10473,Drinks,Americano,1,5000,5000
+11/30/2023,9:03:00 AM,R-10472,Pastries,Chocolate Croissants,2,4000,8000
+11/30/2023,9:03:00 AM,R-10471,Drinks,Espresso,1,3000,3000
+11/29/2023,7:29:00 PM,R-10470,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/29/2023,7:29:00 PM,R-10470,Pastries,Kasata (seseme),1,3000,3000
+11/29/2023,5:15:00 PM,R-10469,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/29/2023,5:15:00 PM,R-10469,Drinks,Immunity Juice,1,3000,3000
+11/29/2023,4:51:00 PM,R-10468,Drinks,Espresso,1,3000,3000
+11/29/2023,4:51:00 PM,R-10467,Drinks,Chai Latte,1,5000,5000
+11/29/2023,4:51:00 PM,R-10467,Drinks,Hill Water (Lemon and Mint),1,4500,4500
+11/29/2023,4:21:00 PM,R-10466,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/29/2023,4:21:00 PM,R-10466,Drinks,Americano,1,5000,5000
+11/29/2023,3:29:00 PM,R-10465,Pastries,Brownies,1,4000,4000
+11/29/2023,3:29:00 PM,R-10465,Drinks,Mango Juice 250ml,1,3000,3000
+11/29/2023,3:22:00 PM,R-10464,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/29/2023,3:22:00 PM,R-10464,Drinks,Mango Juice 250ml,1,3000,3000
+11/29/2023,3:22:00 PM,R-10464,Drinks,Passion Juice 250ml,1,3000,3000
+11/29/2023,3:22:00 PM,R-10464,Takeaways,Standard Takeaway Charges,1,500,500
+11/29/2023,3:19:00 PM,R-10463,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/29/2023,3:19:00 PM,R-10463,Pastries,Brownies,1,4000,4000
+11/29/2023,3:19:00 PM,R-10463,Drinks,Capuccino,2,5000,10000
+11/29/2023,3:12:00 PM,R-10462,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/29/2023,3:12:00 PM,R-10462,Consumeables Stock,Eggs only,1,6000,6000
+11/29/2023,3:12:00 PM,R-10462,Drinks,Capuccino,1,5000,5000
+11/29/2023,3:12:00 PM,R-10462,Drinks,Immunity Juice,1,3000,3000
+11/29/2023,3:12:00 PM,R-10462,Drinks,Red Blush,1,3500,3500
+11/29/2023,2:42:00 PM,R-10461,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/29/2023,2:42:00 PM,R-10461,Drinks,Water,1,1000,1000
+11/29/2023,2:41:00 PM,R-10460,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/29/2023,2:41:00 PM,R-10460,Drinks,Bottled Soda,1,2000,2000
+11/29/2023,2:28:00 PM,R-10458,Drinks,Water,1,1000,1000
+11/29/2023,2:27:00 PM,R-10457,Drinks,Immunity Juice,2,3000,6000
+11/29/2023,2:11:00 PM,R-10455,Pastries,Kasata (seseme),1,3000,3000
+11/29/2023,2:11:00 PM,R-10455,Takeaways,Standard Takeaway Charges,1,500,500
+11/29/2023,12:29:00 PM,R-10451,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/29/2023,12:29:00 PM,R-10451,Drinks,Bottled Soda,1,2000,2000
+11/29/2023,10:09:00 AM,R-10449,Drinks,Cafe Latte,1,5000,5000
+11/29/2023,10:09:00 AM,R-10449,Takeaways,Standard Takeaway Charges,1,500,500
+11/29/2023,9:56:00 AM,R-10448,Drinks,Capuccino,1,5000,5000
+11/29/2023,9:19:00 AM,R-10447,Pastries,Chocolate Croissants,2,4000,8000
+11/29/2023,9:15:00 AM,R-10446,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/29/2023,9:15:00 AM,R-10446,Drinks,Americano,1,5000,5000
+11/29/2023,9:06:00 AM,R-10445,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/29/2023,9:06:00 AM,R-10445,Drinks,Tropical Mix,1,8000,8000
+11/29/2023,9:05:00 AM,R-10444,Drinks,Espresso,1,3000,3000
+11/29/2023,9:05:00 AM,R-10444,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/28/2023,5:18:00 PM,R-10442,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/28/2023,5:18:00 PM,R-10442,Drinks,Bottled Soda,1,2000,2000
+11/28/2023,4:24:00 PM,R-10441,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/28/2023,4:24:00 PM,R-10441,Drinks,Mango Juice 250ml,1,3000,3000
+11/28/2023,4:24:00 PM,R-10441,Drinks,Passion Juice 250ml,1,3000,3000
+11/28/2023,4:24:00 PM,R-10441,Drinks,Mango Juice 250ml,1,3000,3000
+11/28/2023,4:24:00 PM,R-10441,Drinks,Passion Juice 250ml,1,3000,3000
+11/28/2023,4:24:00 PM,R-10441,Takeaways,Standard Takeaway Charges,2,500,1000
+11/28/2023,4:24:00 PM,R-10441,Pastries,Brownies,1,4000,4000
+11/28/2023,4:24:00 PM,R-10440,Pastries,Plain Croissants,2,4000,8000
+11/28/2023,4:24:00 PM,R-10440,Takeaways,Standard Takeaway Charges,1,500,500
+11/28/2023,4:24:00 PM,R-10440,Drinks,Tropical Mix,1,8000,8000
+11/28/2023,4:23:00 PM,R-10439,Drinks,Americano,1,5000,5000
+11/28/2023,4:23:00 PM,R-10439,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/28/2023,3:25:00 PM,R-10438,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/28/2023,2:44:00 PM,R-10435,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/28/2023,2:44:00 PM,R-10434,Drinks,Immunity Juice,1,3000,3000
+11/28/2023,2:04:00 PM,R-10432,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/28/2023,2:04:00 PM,R-10432,Pastries,Plain Croissants,1,4000,4000
+11/28/2023,2:04:00 PM,R-10432,Pastries,Chocolate Croissants,1,4000,4000
+11/28/2023,2:04:00 PM,R-10432,Drinks,Bottled Soda,2,2000,4000
+11/28/2023,1:49:00 PM,R-10431,Takeaways,SW Chicken Tikka - Grab & Go,1,7600,7600
+11/28/2023,1:48:00 PM,R-10430,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
+11/28/2023,12:39:00 PM,R-10429,Consumeables Stock,Ginger Mint Tea,1,5000,5000
+11/28/2023,12:36:00 PM,R-10428,Consumeables Stock,Ginger Mint Tea,1,5000,5000
+11/28/2023,12:28:00 PM,R-10426,Drinks,Water,2,1000,2000
+11/28/2023,10:27:00 AM,R-10424,Drinks,Cafe Latte,1,5000,5000
+11/28/2023,10:27:00 AM,R-10424,Takeaways,Standard Takeaway Charges,1,500,500
+11/28/2023,9:06:00 AM,R-10422,Drinks,Americano,1,5000,5000
+11/28/2023,8:45:00 AM,R-10421,Drinks,Espresso,1,3000,3000
+11/27/2023,7:03:00 PM,R-10420,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/27/2023,7:03:00 PM,R-10420,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
+11/27/2023,7:03:00 PM,R-10420,Drinks,Americano,1,5000,5000
+11/27/2023,7:03:00 PM,R-10420,Drinks,Immunity Juice,1,3000,3000
+11/27/2023,7:03:00 PM,R-10420,Pastries,Cookies,3,1000,3000
+11/27/2023,7:03:00 PM,R-10420,Pastries,Kasata (seseme),1,3000,3000
+11/27/2023,7:03:00 PM,R-10420,Drinks,Ginger Knoc,1,4000,4000
+11/27/2023,7:18:00 PM,R-10419,Takeaways,SW Cheese & Tomato- Grab & Go,2,7500,15000
+11/27/2023,7:18:00 PM,R-10419,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/27/2023,7:18:00 PM,R-10419,Drinks,Water,2,1000,2000
+11/27/2023,7:18:00 PM,R-10419,Consumeables Stock,Pringles (Hot & Spicy),2,3500,7000
+11/27/2023,7:18:00 PM,R-10419,Consumeables Stock,Pringles (Original),1,3500,3500
+11/27/2023,6:04:00 PM,R-10418,Drinks,Kadak Chai,1,4500,4500
+11/27/2023,6:04:00 PM,R-10418,Drinks,Red Blush,1,3500,3500
+11/27/2023,5:32:00 PM,R-10417,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
+11/27/2023,3:44:00 PM,R-10415,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
+11/27/2023,3:44:00 PM,R-10415,Drinks,Bottled Soda,2,2000,4000
+11/27/2023,3:19:00 PM,R-10414,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/27/2023,3:19:00 PM,R-10414,Drinks,Mango Juice 250ml,1,3000,3000
+11/27/2023,3:19:00 PM,R-10414,Pastries,Kasata (seseme),1,3000,3000
+11/27/2023,2:55:00 PM,R-10413,Drinks,Capuccino,1,5000,5000
+11/27/2023,2:53:00 PM,R-10412,ZO Kitchen - Food,Chocolate Muffin,2,2500,5000
+11/27/2023,2:34:00 PM,R-10411,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/27/2023,2:21:00 PM,R-10409,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/27/2023,2:21:00 PM,R-10409,Drinks,Immunity Juice,1,3000,3000
+11/27/2023,1:41:00 PM,R-10407,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
+11/27/2023,1:23:00 PM,R-10406,Drinks,Cafe Latte,1,5000,5000
+11/27/2023,1:23:00 PM,R-10406,Drinks,Chai Latte,1,5000,5000
+11/27/2023,1:23:00 PM,R-10406,Consumeables Stock,Eggs only,1,6000,6000
+11/27/2023,1:18:00 PM,R-10405,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/27/2023,11:02:00 AM,R-10402,Drinks,Ginger Mint Fusion,1,4000,4000
+11/27/2023,11:02:00 AM,R-10402,Takeaways,Standard Takeaway Charges,1,500,500
+11/27/2023,10:13:00 AM,R-10401,Pastries,Cinnamon Roll,1,4000,4000
+11/27/2023,9:22:00 AM,R-10400,Drinks,Capuccino,1,5000,5000
+11/25/2023,4:01:00 PM,R-10399,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/25/2023,4:01:00 PM,R-10399,Drinks,Capuccino,1,5000,5000
+11/25/2023,4:01:00 PM,R-10399,Takeaways,Standard Takeaway Charges,1,500,500
+11/25/2023,3:05:00 PM,R-10398,Drinks,Mint Pinade,1,7500,7500
+11/25/2023,3:05:00 PM,R-10398,Drinks,Ginger Knoc,1,4000,4000
+11/25/2023,3:29:00 PM,R-10397,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/25/2023,3:29:00 PM,R-10397,Drinks,Bottled Soda,1,2000,2000
+11/25/2023,3:28:00 PM,R-10396,Drinks,Capuccino,1,5000,5000
+11/25/2023,3:28:00 PM,R-10396,Drinks,Immunity Juice,1,3000,3000
+11/25/2023,3:28:00 PM,R-10396,Takeaways,Standard Takeaway Charges,6,500,3000
+11/25/2023,3:28:00 PM,R-10396,Drinks,Caramel Latte,1,6000,6000
+11/25/2023,3:28:00 PM,R-10396,Pastries,Brownies,2,4000,8000
+11/25/2023,3:28:00 PM,R-10396,Drinks,Water,1,1000,1000
+11/25/2023,3:28:00 PM,R-10396,Consumeables Stock,Eggs only,1,6000,6000
+11/25/2023,3:28:00 PM,R-10396,Pastries,Cinnamon Roll,1,4000,4000
+11/25/2023,3:28:00 PM,R-10396,Drinks,Americano,1,5000,5000
+11/25/2023,3:02:00 PM,R-10395,Drinks,Cafe Latte,1,5000,5000
+11/25/2023,3:02:00 PM,R-10395,Pastries,Vanilla Muffins,1,2500,2500
+11/25/2023,1:24:00 PM,R-10393,Drinks,Caramel Shake,1,9000,9000
+11/25/2023,1:24:00 PM,R-10393,Takeaways,Standard Takeaway Charges,1,500,500
+11/25/2023,11:05:00 AM,R-10392,Drinks,Americano,1,5000,5000
+11/25/2023,11:48:00 AM,R-10391,Drinks,Capuccino,1,5000,5000
+11/25/2023,11:48:00 AM,R-10391,Consumeables Stock,Rosho Oat - Choco Brownie,1,5000,5000
+11/25/2023,11:08:00 AM,R-10389,Drinks,Water,1,1000,1000
+11/25/2023,10:51:00 AM,R-10388,Drinks,Immunity Juice,1,3000,3000
+11/25/2023,8:48:00 AM,R-10387,Drinks,Capuccino,1,5000,5000
+11/25/2023,8:48:00 AM,R-10387,Pastries,Kasata (seseme),1,3000,3000
+11/24/2023,8:19:00 PM,R-10386,Drinks,Cafe Latte,1,5000,5000
+11/24/2023,6:04:00 PM,R-10385,Drinks,Cafe Latte,1,5000,5000
+11/24/2023,6:04:00 PM,R-10385,Pastries,Kasata (seseme),1,3000,3000
+11/24/2023,6:39:00 PM,R-10384,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/24/2023,5:18:00 PM,R-10383,Consumeables Stock,Eggs only,1,6000,6000
+11/24/2023,5:18:00 PM,R-10383,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/24/2023,5:18:00 PM,R-10383,Drinks,Immunity Juice,1,3000,3000
+11/24/2023,5:18:00 PM,R-10383,Drinks,Red Blush,1,3500,3500
+11/24/2023,5:16:00 PM,R-10382,Drinks,Immunity Juice,1,3000,3000
+11/24/2023,4:45:00 PM,R-10380,Takeaways,SW Cheese & Tomato- Grab & Go,1,7500,7500
+11/24/2023,4:37:00 PM,R-10379,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/24/2023,4:37:00 PM,R-10379,Drinks,Water,1,1000,1000
+11/24/2023,4:37:00 PM,R-10379,Drinks,Immunity Juice,1,3000,3000
+11/24/2023,4:26:00 PM,R-10378,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/24/2023,4:26:00 PM,R-10378,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/24/2023,4:26:00 PM,R-10378,Drinks,Bottled Soda,1,2000,2000
+11/24/2023,4:26:00 PM,R-10378,Drinks,Passion Juice 250ml,1,3000,3000
+11/24/2023,4:26:00 PM,R-10378,Drinks,Immunity Juice,1,3000,3000
+11/24/2023,3:14:00 PM,R-10377,Drinks,Kadak Chai,1,4500,4500
+11/24/2023,3:14:00 PM,R-10377,Takeaways,Standard Takeaway Charges,1,500,500
+11/24/2023,3:14:00 PM,R-10377,Drinks,Bottled Soda,1,2000,2000
+11/24/2023,3:14:00 PM,R-10377,Consumeables Stock,Rosho Oat - Cinnamon,2,5000,10000
+11/24/2023,1:36:00 PM,R-10376,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/24/2023,1:36:00 PM,R-10376,Drinks,Immunity Juice,1,3000,3000
+11/24/2023,1:23:00 PM,R-10375,Drinks,Passion Juice 250ml,1,3000,3000
+11/24/2023,1:23:00 PM,R-10375,Takeaways,Standard Takeaway Charges,1,500,500
+11/24/2023,11:25:00 AM,R-10373,Pastries,Plain Croissants,1,4000,4000
+11/24/2023,11:25:00 AM,R-10373,Drinks,Red Blush,1,3500,3500
+11/24/2023,11:25:00 AM,R-10373,Drinks,Water,1,1000,1000
+11/24/2023,10:57:00 AM,R-10372,Drinks,Americano,1,5000,5000
+11/24/2023,10:57:00 AM,R-10372,Takeaways,Standard Takeaway Charges,1,500,500
+11/24/2023,10:39:00 AM,R-10371,Drinks,Espresso,1,3000,3000
+11/24/2023,10:39:00 AM,R-10371,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/24/2023,10:39:00 AM,R-10371,Pastries,Vanilla Muffins,1,2500,2500
+11/24/2023,9:03:00 AM,R-10370,Drinks,Americano,1,5000,5000
+11/24/2023,9:03:00 AM,R-10370,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/23/2023,6:51:00 PM,R-10369,Pastries,Cinnamon Roll,2,4000,8000
+11/23/2023,6:51:00 PM,R-10369,Pastries,Brownies,1,4000,4000
+11/23/2023,6:51:00 PM,R-10369,Drinks,Peanut Butter Smoothie,1,8000,8000
+11/23/2023,6:51:00 PM,R-10369,Drinks,Luxury Hot Chocolate,1,9000,9000
+11/23/2023,6:51:00 PM,R-10369,Drinks,Herbal Teas,1,4000,4000
+11/23/2023,6:04:00 PM,R-10368,Drinks,Immunity Juice,1,3000,3000
+11/23/2023,5:13:00 PM,R-10367,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/23/2023,5:07:00 PM,R-10366,Drinks,Capuccino,1,5000,5000
+11/23/2023,5:07:00 PM,R-10366,Drinks,Kadak Chai,1,4500,4500
+11/23/2023,5:07:00 PM,R-10366,Pastries,Brownies,2,4000,8000
+11/23/2023,4:57:00 PM,R-10365,Drinks,Bottled Soda,1,2000,2000
+11/23/2023,4:48:00 PM,R-10364,ZO Kitchen - Food,Chicken Stir Fry Noodles,2,11500,23000
+11/23/2023,4:48:00 PM,R-10364,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/23/2023,4:48:00 PM,R-10364,Takeaways,Standard Takeaway Charges,1,500,500
+11/23/2023,4:48:00 PM,R-10364,Drinks,Capuccino,1,5000,5000
+11/23/2023,4:44:00 PM,R-10363,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/23/2023,4:44:00 PM,R-10363,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/23/2023,4:44:00 PM,R-10363,Drinks,Bottled Soda,2,2000,4000
+11/23/2023,3:55:00 PM,R-10362,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/23/2023,3:55:00 PM,R-10362,Drinks,Water,1,1000,1000
+11/23/2023,3:54:00 PM,R-10361,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/23/2023,3:54:00 PM,R-10361,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/23/2023,3:54:00 PM,R-10361,Drinks,Bottled Soda,2,2000,4000
+11/23/2023,3:54:00 PM,R-10360,Pastries,Kasata (seseme),1,3000,3000
+11/23/2023,3:54:00 PM,R-10360,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/23/2023,3:54:00 PM,R-10360,Drinks,Bottled Soda,1,2000,2000
+11/23/2023,3:54:00 PM,R-10360,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/23/2023,3:54:00 PM,R-10360,Drinks,Immunity Juice,1,3000,3000
+11/23/2023,3:51:00 PM,R-10359,Consumeables Stock,Eggs only,1,6000,6000
+11/23/2023,3:51:00 PM,R-10359,Drinks,Red Blush,2,3500,7000
+11/23/2023,3:51:00 PM,R-10359,Takeaways,Standard Takeaway Charges,1,500,500
+11/23/2023,3:51:00 PM,R-10359,Consumeables Stock,Pringles (Hot & Spicy),1,3500,3500
+11/23/2023,3:51:00 PM,R-10359,Drinks,Capuccino,1,5000,5000
+11/23/2023,3:05:00 PM,R-10356,Drinks,Water,1,1000,1000
+11/23/2023,3:05:00 PM,R-10356,Drinks,Mango Juice 250ml,1,3000,3000
+11/23/2023,3:05:00 PM,R-10356,Pastries,Vanilla Muffins,1,2500,2500
+11/23/2023,3:02:00 PM,R-10355,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/23/2023,3:02:00 PM,R-10355,Pastries,Kasata (seseme),1,3000,3000
+11/23/2023,3:02:00 PM,R-10355,Drinks,Mango Juice 250ml,1,3000,3000
+11/23/2023,2:54:00 PM,R-10354,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/23/2023,1:53:00 PM,R-10352,Drinks,Capuccino,1,5000,5000
+11/23/2023,1:53:00 PM,R-10352,Takeaways,Standard Takeaway Charges,1,500,500
+11/23/2023,1:53:00 PM,R-10352,Drinks,Water,1,1000,1000
+11/23/2023,1:32:00 PM,R-10350,Drinks,Water,1,1000,1000
+11/23/2023,1:31:00 PM,R-10349,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
+11/23/2023,12:59:00 PM,R-10348,Pastries,Chocolate Croissants,1,4000,4000
+11/23/2023,12:23:00 PM,R-10347,Drinks,Bottled Soda,2,2000,4000
+11/23/2023,12:23:00 PM,R-10347,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/23/2023,12:23:00 PM,R-10347,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/23/2023,12:11:00 PM,R-10345,Drinks,Americano,1,5000,5000
+11/23/2023,12:11:00 PM,R-10345,Drinks,Cafe Latte,1,5000,5000
+11/23/2023,12:11:00 PM,R-10345,Takeaways,Standard Takeaway Charges,2,500,1000
+11/23/2023,12:11:00 PM,R-10344,Drinks,Immunity Juice,2,3000,6000
+11/23/2023,11:05:00 AM,R-10343,Drinks,Americano,1,5000,5000
+11/23/2023,9:05:00 AM,R-10342,Drinks,Tropical Mix,1,8000,8000
+11/23/2023,9:05:00 AM,R-10342,Takeaways,Standard Takeaway Charges,1,500,500
+11/23/2023,9:28:00 AM,R-10341,Drinks,Bottled Soda,1,2000,2000
+11/23/2023,9:17:00 AM,R-10340,Drinks,Capuccino,1,5000,5000
+11/22/2023,7:24:00 PM,R-10339,Pastries,Kasata (seseme),1,3000,3000
+11/22/2023,7:24:00 PM,R-10339,Pastries,Cookies,1,1000,1000
+11/22/2023,6:53:00 PM,R-10338,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/22/2023,5:02:00 PM,R-10337,Drinks,Immunity Juice,1,3000,3000
+11/22/2023,5:16:00 PM,R-10336,Pastries,Brownies,2,4000,8000
+11/22/2023,5:15:00 PM,R-10335,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
+11/22/2023,5:15:00 PM,R-10335,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
+11/22/2023,5:15:00 PM,R-10335,Drinks,Mango Juice 250ml,2,3000,6000
+11/22/2023,5:15:00 PM,R-10335,Drinks,Passion Juice 250ml,1,3000,3000
+11/22/2023,4:23:00 PM,R-10334,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
+11/22/2023,4:23:00 PM,R-10334,Drinks,Capuccino,1,5000,5000
+11/22/2023,4:23:00 PM,R-10334,Takeaways,Standard Takeaway Charges,1,500,500
+11/22/2023,4:23:00 PM,R-10333,Drinks,Water,4,1000,4000
+11/22/2023,3:44:00 PM,R-10332,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/22/2023,3:44:00 PM,R-10332,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/22/2023,3:44:00 PM,R-10332,Drinks,Bottled Soda,2,2000,4000
+11/22/2023,3:43:00 PM,R-10331,Drinks,Water,3,1000,3000
+11/22/2023,3:43:00 PM,R-10331,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/22/2023,3:43:00 PM,R-10331,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/22/2023,3:43:00 PM,R-10331,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/22/2023,3:43:00 PM,R-10331,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/22/2023,1:31:00 PM,R-10327,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/22/2023,1:25:00 PM,R-10326,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/22/2023,1:15:00 PM,R-10325,Drinks,Kadak Chai,1,4500,4500
+11/22/2023,12:57:00 PM,R-10324,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/22/2023,12:24:00 PM,R-10323,Pastries,Kasata (seseme),1,3000,3000
+11/22/2023,12:24:00 PM,R-10323,Takeaways,SW Cheese & Tomato- Grab & Go,1,7500,7500
+11/22/2023,11:47:00 AM,R-10322,Drinks,Capuccino,1,5000,5000
+11/22/2023,11:47:00 AM,R-10322,Pastries,Cinnamon Roll,1,4000,4000
+11/22/2023,11:46:00 AM,R-10321,Drinks,Capuccino,1,5000,5000
+11/22/2023,11:46:00 AM,R-10321,Pastries,Kasata (seseme),1,3000,3000
+11/22/2023,11:46:00 AM,R-10321,Takeaways,SW Cheese & Tomato- Grab & Go,1,7500,7500
+11/22/2023,11:07:00 AM,R-10319,Drinks,Americano,1,5000,5000
+11/22/2023,11:07:00 AM,R-10319,Takeaways,Standard Takeaway Charges,1,500,500
+11/22/2023,10:11:00 AM,R-10318,Drinks,Capuccino,1,5000,5000
+11/22/2023,9:23:00 AM,R-10317,Drinks,Americano,1,5000,5000
+11/22/2023,8:22:00 AM,R-10316,Drinks,Espresso,1,3000,3000
+11/21/2023,7:19:00 PM,R-10315,Drinks,Ginger Knoc,1,4000,4000
+11/21/2023,5:45:00 PM,R-10314,Drinks,Kadak Chai,1,4500,4500
+11/21/2023,5:45:00 PM,R-10314,Pastries,Plain Croissants,1,4000,4000
+11/21/2023,4:05:00 PM,R-10313,Drinks,Chai Latte,1,5000,5000
+11/21/2023,4:05:00 PM,R-10313,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/21/2023,4:49:00 PM,R-10312,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/21/2023,4:49:00 PM,R-10312,Drinks,Mango Juice 250ml,1,3000,3000
+11/21/2023,4:24:00 PM,R-10311,Drinks,Americano,1,5000,5000
+11/21/2023,4:24:00 PM,R-10311,Takeaways,Standard Takeaway Charges,1,500,500
+11/21/2023,4:24:00 PM,R-10310,Drinks,Capuccino,1,5000,5000
+11/21/2023,3:01:00 PM,R-10308,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/21/2023,3:01:00 PM,R-10308,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
+11/21/2023,3:01:00 PM,R-10308,Drinks,Bottled Soda,3,2000,6000
+11/21/2023,2:48:00 PM,R-10307,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/21/2023,1:45:00 PM,R-10305,Drinks,Kadak Chai,1,4500,4500
+11/21/2023,1:45:00 PM,R-10305,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/21/2023,1:45:00 PM,R-10304,Drinks,Capuccino,1,5000,5000
+11/21/2023,12:04:00 PM,R-10303,Drinks,Luxury Hot Chocolate,1,9000,9000
+11/21/2023,12:04:00 PM,R-10302,Drinks,Capuccino,1,5000,5000
+11/21/2023,12:04:00 PM,R-10302,Drinks,Tropical Mix,1,8000,8000
+11/21/2023,12:04:00 PM,R-10302,Pastries,Chocolate Croissants,1,4000,4000
+11/21/2023,12:04:00 PM,R-10301,Pastries,Vanilla Muffins,1,2500,2500
+11/21/2023,9:37:00 AM,R-10299,Drinks,Strawberry Mojito,1,10000,10000
+11/21/2023,9:37:00 AM,R-10299,Takeaways,Standard Takeaway Charges,1,500,500
+11/21/2023,8:13:00 AM,R-10298,Drinks,Espresso,1,3000,3000
+11/20/2023,6:03:00 PM,R-10297,Drinks,Immunity Juice,1,3000,3000
+11/20/2023,5:49:00 PM,R-10296,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/20/2023,5:49:00 PM,R-10296,Drinks,Bottled Soda,1,2000,2000
+11/20/2023,5:49:00 PM,R-10296,Takeaways,Standard Takeaway Charges,1,500,500
+11/20/2023,3:58:00 PM,R-10294,Consumeables Stock,Eggs only,1,6000,6000
+11/20/2023,3:58:00 PM,R-10293,Drinks,Americano,1,5000,5000
+11/20/2023,3:58:00 PM,R-10293,Drinks,Immunity Juice,1,3000,3000
+11/20/2023,3:44:00 PM,R-10292,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/20/2023,3:44:00 PM,R-10292,Drinks,Kadak Chai,2,4500,9000
+11/20/2023,3:43:00 PM,R-10291,Drinks,Immunity Juice,1,3000,3000
+11/20/2023,3:43:00 PM,R-10291,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
+11/20/2023,3:43:00 PM,R-10291,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
+11/20/2023,3:43:00 PM,R-10291,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/20/2023,3:43:00 PM,R-10291,Drinks,Cafe Latte,1,5000,5000
+11/20/2023,3:43:00 PM,R-10291,Drinks,Water,1,1000,1000
+11/20/2023,3:35:00 PM,R-10290,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/20/2023,3:35:00 PM,R-10290,Takeaways,Standard Takeaway Charges,1,500,500
+11/20/2023,3:35:00 PM,R-10290,Drinks,Passion Juice 250ml,1,3000,3000
+11/20/2023,3:11:00 PM,R-10289,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/20/2023,3:11:00 PM,R-10289,Drinks,Capuccino,1,5000,5000
+11/20/2023,3:11:00 PM,R-10289,Drinks,Ginger Knoc,1,4000,4000
+11/20/2023,3:01:00 PM,R-10288,ZO Kitchen - Food,Butter chicken and rice,2,11500,23000
+11/20/2023,3:01:00 PM,R-10288,Drinks,Bottled Soda,2,2000,4000
+11/20/2023,2:24:00 PM,R-10286,Drinks,Bottled Soda,1,2000,2000
+11/20/2023,12:34:00 PM,R-10284,Drinks,Americano,1,5000,5000
+11/20/2023,12:34:00 PM,R-10284,Takeaways,Standard Takeaway Charges,1,500,500
+11/20/2023,12:33:00 PM,R-10283,Drinks,Luxury Hot Chocolate,1,9000,9000
+11/20/2023,12:33:00 PM,R-10283,Drinks,Passion Juice 250ml,1,3000,3000
+11/20/2023,12:33:00 PM,R-10283,Takeaways,Standard Takeaway Charges,2,500,1000
+11/20/2023,10:51:00 AM,R-10282,Pastries,Cinnamon Roll,2,4000,8000
+11/20/2023,10:51:00 AM,R-10282,Drinks,Mango Juice 250ml,1,3000,3000
+11/20/2023,10:51:00 AM,R-10282,Takeaways,Standard Takeaway Charges,1,500,500
+11/20/2023,9:31:00 AM,R-10280,Drinks,Capuccino,1,5000,5000
+11/20/2023,9:31:00 AM,R-10280,Takeaways,Standard Takeaway Charges,1,500,500
+11/20/2023,9:09:00 AM,R-10279,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/20/2023,9:09:00 AM,R-10279,Drinks,Espresso,1,3000,3000
+11/20/2023,8:53:00 AM,R-10278,Drinks,Capuccino,1,5000,5000
+11/20/2023,8:53:00 AM,R-10278,Takeaways,Standard Takeaway Charges,2,500,1000
+11/20/2023,8:53:00 AM,R-10278,Drinks,Capuccino,1,5000,5000
+11/18/2023,3:11:00 PM,R-10277,Drinks,Bottled Soda,2,2000,4000
+11/18/2023,2:23:00 PM,R-10275,Drinks,Capuccino,1,5000,5000
+11/18/2023,2:23:00 PM,R-10275,Takeaways,Standard Takeaway Charges,1,500,500
+11/18/2023,2:23:00 PM,R-10275,Pastries,Cinnamon Roll,1,4000,4000
+11/17/2023,7:31:00 PM,R-10273,Drinks,Ginger Mint Fusion,1,4000,4000
+11/17/2023,7:31:00 PM,R-10273,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/17/2023,7:31:00 PM,R-10273,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/17/2023,7:31:00 PM,R-10273,Pastries,Brownies,1,4000,4000
+11/17/2023,7:31:00 PM,R-10273,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/17/2023,7:31:00 PM,R-10273,Drinks,Ginger Mint Fusion,1,4000,4000
+11/17/2023,7:31:00 PM,R-10273,Pastries,Brownies,1,4000,4000
+11/17/2023,7:31:00 PM,R-10273,Takeaways,Standard Takeaway Charges,1,500,500
+11/17/2023,6:49:00 PM,R-10272,Drinks,Iced Tea,1,8000,8000
+11/17/2023,6:49:00 PM,R-10272,Drinks,Capuccino,1,5000,5000
+11/17/2023,5:49:00 PM,R-10271,Drinks,Water,1,1000,1000
+11/17/2023,5:49:00 PM,R-10271,Drinks,Passion Juice 250ml,1,3000,3000
+11/17/2023,5:49:00 PM,R-10270,Drinks,Cafe Latte,1,5000,5000
+11/17/2023,5:49:00 PM,R-10270,Takeaways,Standard Takeaway Charges,1,500,500
+11/17/2023,5:48:00 PM,R-10269,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/17/2023,5:48:00 PM,R-10269,Drinks,Ginger Knoc,1,4000,4000
+11/17/2023,5:11:00 PM,R-10268,Drinks,Capuccino,1,5000,5000
+11/17/2023,5:11:00 PM,R-10268,Takeaways,Standard Takeaway Charges,1,500,500
+11/17/2023,5:01:00 PM,R-10267,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/17/2023,5:01:00 PM,R-10267,Drinks,Water,1,1000,1000
+11/17/2023,4:57:00 PM,R-10266,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
+11/17/2023,4:57:00 PM,R-10266,Takeaways,Standard Takeaway Charges,1,500,500
+11/17/2023,4:57:00 PM,R-10266,Drinks,Mango Juice 250ml,1,3000,3000
+11/17/2023,4:57:00 PM,R-10266,Drinks,Passion Juice 250ml,1,3000,3000
+11/17/2023,4:54:00 PM,R-10265,Drinks,Ginger Knoc,1,4000,4000
+11/17/2023,4:54:00 PM,R-10265,Takeaways,Standard Takeaway Charges,1,500,500
+11/17/2023,4:45:00 PM,R-10264,Drinks,Kadak Chai,2,4500,9000
+11/17/2023,3:36:00 PM,R-10263,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/17/2023,2:45:00 PM,R-10262,ZO Kitchen - Food,Chicken Fried Rice,3,11500,34500
+11/17/2023,2:45:00 PM,R-10262,Drinks,Water,2,1000,2000
+11/17/2023,2:03:00 PM,R-10261,Pastries,Cinnamon Roll,1,4000,4000
+11/17/2023,2:01:00 PM,R-10260,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/17/2023,2:00:00 PM,R-10259,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/17/2023,12:01:00 PM,R-10257,Drinks,Water,5,1000,5000
+11/17/2023,11:49:00 AM,R-10255,Drinks,Capuccino,1,5000,5000
+11/17/2023,10:05:00 AM,R-10254,Drinks,Capuccino,1,5000,5000
+11/17/2023,10:05:00 AM,R-10254,Takeaways,Standard Takeaway Charges,1,500,500
+11/17/2023,10:12:00 AM,R-10253,Drinks,Americano,1,5000,5000
+11/17/2023,9:44:00 AM,R-10252,Drinks,Kadak Chai,1,4500,4500
+11/17/2023,8:19:00 AM,R-10251,Drinks,Espresso,1,3000,3000
+11/17/2023,8:19:00 AM,R-10251,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/16/2023,5:49:00 PM,R-10250,Drinks,Capuccino,1,5000,5000
+11/16/2023,5:49:00 PM,R-10250,Takeaways,Standard Takeaway Charges,1,500,500
+11/16/2023,4:22:00 PM,R-10248,Drinks,Ginger Mint Fusion,1,4000,4000
+11/16/2023,4:22:00 PM,R-10248,Drinks,Kilimanjaro Green Tea,1,4000,4000
+11/16/2023,4:22:00 PM,R-10248,Pastries,Vanilla Muffins,1,2500,2500
+11/16/2023,4:22:00 PM,R-10248,Drinks,Americano,1,5000,5000
+11/16/2023,4:22:00 PM,R-10248,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/16/2023,3:58:00 PM,R-10247,Drinks,Kadak Chai,1,4500,4500
+11/16/2023,3:58:00 PM,R-10247,Drinks,Water,1,1000,1000
+11/16/2023,3:58:00 PM,R-10247,Drinks,Bottled Soda,1,2000,2000
+11/16/2023,3:58:00 PM,R-10247,Drinks,Water,1,1000,1000
+11/16/2023,3:37:00 PM,R-10245,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/16/2023,3:37:00 PM,R-10245,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/16/2023,3:37:00 PM,R-10245,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/16/2023,3:37:00 PM,R-10245,Drinks,Bottled Soda,3,2000,6000
+11/16/2023,3:15:00 PM,R-10244,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/16/2023,3:15:00 PM,R-10244,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/16/2023,3:15:00 PM,R-10244,Drinks,Immunity Juice,4,3000,12000
+11/16/2023,3:15:00 PM,R-10244,Drinks,Mango Juice 250ml,1,3000,3000
+11/16/2023,3:13:00 PM,R-10243,Drinks,Berry Cool,1,10000,10000
+11/16/2023,3:13:00 PM,R-10243,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/16/2023,3:13:00 PM,R-10243,Pastries,Brownies,2,4000,8000
+11/16/2023,3:08:00 PM,R-10242,Drinks,Americano,1,5000,5000
+11/16/2023,1:46:00 PM,R-10240,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/16/2023,1:46:00 PM,R-10240,Pastries,Kasata (seseme),1,3000,3000
+11/16/2023,1:46:00 PM,R-10240,Drinks,Mango Juice 250ml,1,3000,3000
+11/16/2023,1:23:00 PM,R-10238,Drinks,Water,1,1000,1000
+11/16/2023,1:22:00 PM,R-10237,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
+11/16/2023,1:15:00 PM,R-10236,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/16/2023,11:12:00 AM,R-10235,Consumeables Stock,Eggs only,1,6000,6000
+11/16/2023,11:12:00 AM,R-10235,Pastries,Cinnamon Roll,1,4000,4000
+11/16/2023,11:11:00 AM,R-10234,Consumeables Stock,Eggs only,1,6000,6000
+11/16/2023,11:11:00 AM,R-10234,Drinks,Americano,1,5000,5000
+11/16/2023,11:11:00 AM,R-10234,Consumeables Stock,Pringles (Hot & Spicy),1,3500,3500
+11/16/2023,11:11:00 AM,R-10234,Drinks,Immunity Juice,1,3000,3000
+11/16/2023,10:21:00 AM,R-10233,Drinks,Americano,2,5000,10000
+11/16/2023,10:21:00 AM,R-10233,Takeaways,Standard Takeaway Charges,2,500,1000
+11/16/2023,10:02:00 AM,R-10232,Drinks,Espresso,1,3000,3000
+11/16/2023,10:02:00 AM,R-10232,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/16/2023,10:02:00 AM,R-10231,Drinks,Americano,1,5000,5000
+11/15/2023,5:28:00 PM,R-10230,Drinks,Espresso,1,3000,3000
+11/15/2023,5:28:00 PM,R-10229,Drinks,Mango Juice 250ml,1,3000,3000
+11/15/2023,5:28:00 PM,R-10229,Pastries,Kasata (seseme),1,3000,3000
+11/15/2023,5:23:00 PM,R-10228,ZO Kitchen - Food,Butter chicken and rice,2,11500,23000
+11/15/2023,5:23:00 PM,R-10228,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/15/2023,5:23:00 PM,R-10228,Drinks,Kilimanjaro Green Tea,1,4000,4000
+11/15/2023,5:23:00 PM,R-10228,Drinks,Cinnamon Spice,1,4000,4000
+11/15/2023,5:23:00 PM,R-10228,Drinks,Mango Juice 250ml,1,3000,3000
+11/15/2023,5:23:00 PM,R-10228,Drinks,Passion Juice 250ml,1,3000,3000
+11/15/2023,5:23:00 PM,R-10228,Drinks,Turmeric Latte,1,7000,7000
+11/15/2023,5:16:00 PM,R-10227,Pastries,Cookies,2,1000,2000
+11/15/2023,5:16:00 PM,R-10226,Pastries,Cookies,2,1000,2000
+11/15/2023,4:52:00 PM,R-10225,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/15/2023,4:52:00 PM,R-10225,Drinks,Mango Juice 250ml,1,3000,3000
+11/15/2023,4:52:00 PM,R-10225,Drinks,Passion Juice 250ml,1,3000,3000
+11/15/2023,4:52:00 PM,R-10225,Takeaways,Standard Takeaway Charges,1,500,500
+11/15/2023,4:52:00 PM,R-10225,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/15/2023,4:01:00 PM,R-10224,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/15/2023,4:01:00 PM,R-10224,Drinks,Espresso,1,3000,3000
+11/15/2023,2:59:00 PM,R-10222,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/15/2023,2:59:00 PM,R-10222,Pastries,Plain Croissants,1,4000,4000
+11/15/2023,2:59:00 PM,R-10222,Drinks,Ginger Mint Fusion,1,4000,4000
+11/15/2023,2:34:00 PM,R-10221,Drinks,Kadak Chai,3,4500,13500
+11/15/2023,2:34:00 PM,R-10221,Takeaways,Standard Takeaway Charges,3,500,1500
+11/15/2023,2:04:00 PM,R-10219,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/15/2023,1:36:00 PM,R-10218,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/15/2023,12:19:00 PM,R-10216,Pastries,Vanilla Muffins,1,2500,2500
+11/15/2023,12:09:00 PM,R-10215,Drinks,Cafe Latte,1,5000,5000
+11/15/2023,12:04:00 PM,R-10214,Drinks,Mango Juice 250ml,1,3000,3000
+11/15/2023,12:04:00 PM,R-10214,Takeaways,Standard Takeaway Charges,1,500,500
+11/15/2023,11:35:00 AM,R-10213,Drinks,Cafe Latte,1,5000,5000
+11/15/2023,11:35:00 AM,R-10213,Takeaways,Standard Takeaway Charges,1,500,500
+11/15/2023,11:18:00 AM,R-10212,Consumeables Stock,Eggs only,1,6000,6000
+11/15/2023,11:18:00 AM,R-10212,Pastries,Cookies,2,1000,2000
+11/15/2023,11:15:00 AM,R-10211,Consumeables Stock,Eggs only,1,6000,6000
+11/15/2023,11:15:00 AM,R-10211,Drinks,Americano,1,5000,5000
+11/15/2023,11:15:00 AM,R-10211,Drinks,Immunity Juice,1,3000,3000
+11/15/2023,11:15:00 AM,R-10211,Takeaways,Standard Takeaway Charges,1,500,500
+11/15/2023,10:24:00 AM,R-10209,Drinks,Espresso,1,3000,3000
+11/15/2023,10:24:00 AM,R-10209,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/15/2023,9:34:00 AM,R-10208,Pastries,Cookies,1,1000,1000
+11/15/2023,9:32:00 AM,R-10207,Drinks,Caramel Latte,1,6000,6000
+11/15/2023,9:32:00 AM,R-10207,Takeaways,Standard Takeaway Charges,1,500,500
+11/15/2023,9:19:00 AM,R-10206,Drinks,Immunity Juice,1,3000,3000
+11/15/2023,9:17:00 AM,R-10205,Drinks,Capuccino,1,5000,5000
+11/15/2023,8:32:00 AM,R-10204,Drinks,Americano,1,5000,5000
+11/15/2023,8:32:00 AM,R-10204,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/14/2023,6:09:00 PM,R-10203,Drinks,Cafe Latte,1,5000,5000
+11/14/2023,6:09:00 PM,R-10203,Pastries,Kasata (seseme),1,3000,3000
+11/14/2023,4:44:00 PM,R-10201,Drinks,Espresso,1,3000,3000
+11/14/2023,3:11:00 PM,R-10200,Drinks,Immunity Juice,1,3000,3000
+11/14/2023,3:11:00 PM,R-10200,Drinks,Capuccino,1,5000,5000
+11/14/2023,2:57:00 PM,R-10199,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/14/2023,2:57:00 PM,R-10199,Drinks,Mango Juice 250ml,1,3000,3000
+11/14/2023,2:57:00 PM,R-10199,Drinks,Passion Juice 250ml,1,3000,3000
+11/14/2023,2:57:00 PM,R-10199,Takeaways,Standard Takeaway Charges,1,500,500
+11/14/2023,2:41:00 PM,R-10198,Drinks,Ginger Knoc,1,4000,4000
+11/14/2023,2:41:00 PM,R-10198,Drinks,Bottled Soda,2,2000,4000
+11/14/2023,2:41:00 PM,R-10198,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/14/2023,2:41:00 PM,R-10198,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/14/2023,2:29:00 PM,R-10196,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/14/2023,2:29:00 PM,R-10196,Drinks,Cafe Latte,1,5000,5000
+11/14/2023,2:29:00 PM,R-10196,Pastries,Chocolate Croissants,1,4000,4000
+11/14/2023,2:29:00 PM,R-10196,Takeaways,Standard Takeaway Charges,1,500,500
+11/14/2023,2:25:00 PM,R-10195,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/14/2023,2:23:00 PM,R-10194,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/14/2023,2:23:00 PM,R-10194,Drinks,Mango Juice 250ml,1,3000,3000
+11/14/2023,2:23:00 PM,R-10193,Drinks,Cafe Latte,2,5000,10000
+11/14/2023,2:23:00 PM,R-10193,Pastries,Plain Croissants,1,4000,4000
+11/14/2023,2:19:00 PM,R-10192,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/14/2023,1:34:00 PM,R-10190,Drinks,Water,1,1000,1000
+11/14/2023,1:34:00 PM,R-10189,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
+11/14/2023,1:29:00 PM,R-10188,ZO Kitchen - Food,Butter chicken and rice,1,9200,9200
+11/14/2023,1:22:00 PM,R-10187,Pastries,Brownies,2,4000,8000
+11/14/2023,1:21:00 PM,R-10186,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/14/2023,1:17:00 PM,R-10185,Drinks,Mint Pinade,1,7500,7500
+11/14/2023,1:17:00 PM,R-10185,Drinks,Ginger Mint Fusion,1,4000,4000
+11/14/2023,1:17:00 PM,R-10185,Takeaways,Standard Takeaway Charges,2,500,1000
+11/14/2023,12:31:00 PM,R-10184,Takeaways,SW Chicken Tikka - Grab & Go,2,9500,19000
+11/14/2023,12:31:00 PM,R-10184,Drinks,Capuccino,1,5000,5000
+11/14/2023,12:31:00 PM,R-10184,Drinks,Caramel Latte,1,6000,6000
+11/14/2023,11:28:00 AM,R-10183,Drinks,Americano,1,5000,5000
+11/14/2023,11:28:00 AM,R-10183,Takeaways,Standard Takeaway Charges,1,500,500
+11/14/2023,10:46:00 AM,R-10182,Pastries,Cinnamon Roll,1,4000,4000
+11/14/2023,10:05:00 AM,R-10181,Pastries,Cinnamon Roll,1,4000,4000
+11/14/2023,9:38:00 AM,R-10180,Drinks,Americano,1,5000,5000
+11/14/2023,9:37:00 AM,R-10179,Pastries,Brownies,1,4000,4000
+11/14/2023,9:02:00 AM,R-10178,Drinks,Espresso,1,3000,3000
+11/13/2023,7:02:00 PM,R-10177,Pastries,Cinnamon Roll,1,4000,4000
+11/13/2023,7:02:00 PM,R-10177,Pastries,Kasata (seseme),1,3000,3000
+11/13/2023,7:02:00 PM,R-10177,Pastries,Cookies,1,1000,1000
+11/13/2023,7:02:00 PM,R-10177,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/13/2023,4:55:00 PM,R-10176,Drinks,Hill Water (Lemon and Mint),1,4500,4500
+11/13/2023,4:07:00 PM,R-10175,Pastries,Brownies,1,4000,4000
+11/13/2023,4:07:00 PM,R-10175,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/13/2023,4:07:00 PM,R-10175,Drinks,Chai Latte,1,5000,5000
+11/13/2023,4:07:00 PM,R-10175,Drinks,Espresso Macchiato,1,4500,4500
+11/13/2023,3:49:00 PM,R-10173,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/13/2023,3:49:00 PM,R-10173,Drinks,Red Blush,1,3500,3500
+11/13/2023,3:22:00 PM,R-10172,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/13/2023,3:22:00 PM,R-10172,Drinks,Bottled Soda,1,2000,2000
+11/13/2023,3:22:00 PM,R-10172,Takeaways,Standard Takeaway Charges,1,500,500
+11/13/2023,2:55:00 PM,R-10170,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/13/2023,2:18:00 PM,R-10167,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
+11/13/2023,2:18:00 PM,R-10167,Drinks,Immunity Juice,1,3000,3000
+11/13/2023,2:18:00 PM,R-10167,Drinks,Mango Juice 250ml,1,3000,3000
+11/13/2023,2:18:00 PM,R-10167,Drinks,Passion Juice 250ml,1,3000,3000
+11/13/2023,2:17:00 PM,R-10166,Pastries,Chocolate Croissants,2,4000,8000
+11/13/2023,12:57:00 PM,R-10163,Drinks,Water,3,1000,3000
+11/13/2023,12:36:00 PM,R-10162,Drinks,Bottled Soda,1,2000,2000
+11/13/2023,12:03:00 PM,R-10161,Drinks,Capuccino,1,5000,5000
+11/13/2023,11:37:00 AM,R-10160,Takeaways,Standard Takeaway Charges,1,500,500
+11/13/2023,11:08:00 AM,R-10158,Drinks,Capuccino,1,5000,5000
+11/13/2023,11:08:00 AM,R-10158,Takeaways,Standard Takeaway Charges,1,500,500
+11/13/2023,10:45:00 AM,R-10157,Pastries,Cookies,1,1000,1000
+11/13/2023,10:01:00 AM,R-10156,Drinks,Espresso,1,3000,3000
+11/13/2023,10:01:00 AM,R-10156,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/13/2023,9:03:00 AM,R-10155,Drinks,Ginger Knoc,1,4000,4000
+11/13/2023,9:03:00 AM,R-10155,Takeaways,Standard Takeaway Charges,1,500,500
+11/13/2023,9:03:00 AM,R-10154,Drinks,Americano,1,5000,5000
 11/11/2023,2:23:00 PM,R-10152,ZO Kitchen - Food,Butter chicken and rice,2,11500,23000
 11/11/2023,11:51:00 AM,R-10150,Pastries,Cookies,2,1000,2000
 11/11/2023,11:05:00 AM,R-10149,Drinks,Immunity Juice,1,3000,3000
 11/11/2023,11:48:00 AM,R-10148,Drinks,Iced Coffee,1,7000,7000
 11/11/2023,11:22:00 AM,R-10146,Drinks,Americano,1,5000,5000
-10/11/2023,7:49:00 PM,R-10145,Drinks,Capuccino,1,5000,5000
-10/11/2023,7:49:00 PM,R-10145,Takeaways,Standard Takeaway Charges,1,500,500
-10/11/2023,6:13:00 PM,R-10144,Drinks,Luxury Hot Chocolate,1,9000,9000
-10/11/2023,6:13:00 PM,R-10144,Pastries,Plain Croissants,1,4000,4000
-10/11/2023,6:13:00 PM,R-10144,Takeaways,Standard Takeaway Charges,1,500,500
-10/11/2023,5:27:00 PM,R-10143,Drinks,Cafe Latte,1,5000,5000
-10/11/2023,5:05:00 PM,R-10142,Drinks,Capuccino,1,5000,5000
-10/11/2023,5:05:00 PM,R-10142,Drinks,Passion Juice 250ml,1,3000,3000
-10/11/2023,5:04:00 PM,R-10141,Drinks,Capuccino,1,5000,5000
-10/11/2023,5:04:00 PM,R-10141,Takeaways,Standard Takeaway Charges,1,500,500
-10/11/2023,5:04:00 PM,R-10140,Drinks,Immunity Juice,2,3000,6000
-10/11/2023,5:03:00 PM,R-10139,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-10/11/2023,5:02:00 PM,R-10138,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-10/11/2023,5:02:00 PM,R-10138,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-10/11/2023,5:02:00 PM,R-10138,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
-10/11/2023,5:02:00 PM,R-10138,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-10/11/2023,4:37:00 PM,R-10136,Pastries,Plain Croissants,1,4000,4000
-10/11/2023,4:37:00 PM,R-10136,Pastries,Cinnamon Roll,1,4000,4000
-10/11/2023,3:52:00 PM,R-10135,ZO Kitchen - Food,Butter chicken and rice,2,11500,23000
-10/11/2023,3:52:00 PM,R-10135,Drinks,Bottled Soda,1,2000,2000
-10/11/2023,3:52:00 PM,R-10135,Drinks,Water,1,1000,1000
-10/11/2023,3:49:00 PM,R-10134,Drinks,Capuccino,2,5000,10000
-10/11/2023,3:49:00 PM,R-10134,Takeaways,Standard Takeaway Charges,2,500,1000
-10/11/2023,3:47:00 PM,R-10133,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-10/11/2023,3:47:00 PM,R-10133,Drinks,Red Blush,1,3500,3500
-10/11/2023,3:28:00 PM,R-10132,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-10/11/2023,3:28:00 PM,R-10132,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-10/11/2023,3:28:00 PM,R-10132,Drinks,Bottled Soda,2,2000,4000
-10/11/2023,2:26:00 PM,R-10129,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-10/11/2023,2:26:00 PM,R-10129,Drinks,Bottled Soda,1,2000,2000
-10/11/2023,2:26:00 PM,R-10129,Takeaways,Standard Takeaway Charges,1,500,500
-10/11/2023,2:25:00 PM,R-10128,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-10/11/2023,1:03:00 PM,R-10125,Drinks,ZO Power,2,9000,18000
-10/11/2023,1:03:00 PM,R-10125,Takeaways,SW Chicken Tikka - Grab & Go,2,9500,19000
-10/11/2023,1:03:00 PM,R-10125,Takeaways,Standard Takeaway Charges,1,500,500
-10/11/2023,12:26:00 PM,R-10124,Drinks,Americano,1,5000,5000
-10/11/2023,12:26:00 PM,R-10124,Takeaways,Standard Takeaway Charges,1,500,500
-10/11/2023,11:15:00 AM,R-10123,Drinks,Americano,1,5000,5000
-10/11/2023,10:27:00 AM,R-10122,Drinks,Water,1,1000,1000
-10/11/2023,9:02:00 AM,R-10121,Drinks,Espresso,1,3000,3000
-10/11/2023,8:35:00 AM,R-10120,Drinks,Capuccino,1,5000,5000
-10/11/2023,8:35:00 AM,R-10120,Pastries,Cookies,1,1000,1000
-10/11/2023,8:35:00 AM,R-10120,Takeaways,Standard Takeaway Charges,1,500,500
-9/11/2023,7:08:00 PM,R-10119,Drinks,Capuccino,1,5000,5000
-9/11/2023,7:08:00 PM,R-10119,Takeaways,Standard Takeaway Charges,1,500,500
-9/11/2023,6:08:00 PM,R-10118,Drinks,Capuccino,1,5000,5000
-9/11/2023,6:08:00 PM,R-10118,Drinks,Water,2,1000,2000
-9/11/2023,6:05:00 PM,R-10117,Drinks,Americano,2,5000,10000
-9/11/2023,6:05:00 PM,R-10117,Takeaways,Standard Takeaway Charges,2,500,1000
-9/11/2023,5:57:00 PM,R-10116,Drinks,Red Blush,1,3500,3500
-9/11/2023,5:57:00 PM,R-10116,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-9/11/2023,4:44:00 PM,R-10115,Drinks,Capuccino,1,5000,5000
-9/11/2023,4:44:00 PM,R-10115,Takeaways,Standard Takeaway Charges,1,500,500
-9/11/2023,4:04:00 PM,R-10114,Drinks,Americano,1,5000,5000
-9/11/2023,4:04:00 PM,R-10114,Pastries,Brownies,1,4000,4000
-9/11/2023,4:04:00 PM,R-10114,Takeaways,SW Cheese & Tomato- Grab & Go,1,7500,7500
-9/11/2023,4:04:00 PM,R-10114,Drinks,Mango Juice 250ml,1,3000,3000
-9/11/2023,3:11:00 PM,R-10112,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-9/11/2023,3:11:00 PM,R-10112,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-9/11/2023,3:11:00 PM,R-10112,Drinks,Bottled Soda,2,2000,4000
-9/11/2023,3:05:00 PM,R-10111,Drinks,Capuccino,1,5000,5000
-9/11/2023,3:05:00 PM,R-10111,Drinks,Cafe Latte,1,5000,5000
-9/11/2023,3:05:00 PM,R-10111,Takeaways,Standard Takeaway Charges,2,500,1000
-9/11/2023,2:51:00 PM,R-10110,Drinks,Mango Juice 250ml,1,3000,3000
-9/11/2023,2:51:00 PM,R-10110,Drinks,Passion Juice 250ml,1,3000,3000
-9/11/2023,2:51:00 PM,R-10110,Takeaways,Standard Takeaway Charges,1,500,500
-9/11/2023,2:05:00 PM,R-10109,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-9/11/2023,2:05:00 PM,R-10109,Drinks,Passion Juice 250ml,1,3000,3000
-9/11/2023,2:22:00 PM,R-10108,Consumeables Stock,Rosho Oat - Choco Brownie,1,5000,5000
-9/11/2023,2:13:00 PM,R-10107,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-9/11/2023,2:12:00 PM,R-10106,Drinks,Water,1,1000,1000
-9/11/2023,2:01:00 PM,R-10105,Drinks,Immunity Juice,1,3000,3000
-9/11/2023,2:01:00 PM,R-10104,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-9/11/2023,2:02:00 PM,R-10103,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-9/11/2023,12:48:00 PM,R-10101,Pastries,Vanilla Muffins,1,2500,2500
-9/11/2023,12:48:00 PM,R-10101,Drinks,Red Blush,1,3500,3500
-9/11/2023,12:33:00 PM,R-10100,ZO Kitchen - Food,Chicken Stir Fry Noodles,2,11500,23000
-9/11/2023,12:33:00 PM,R-10100,Drinks,Immunity Juice,2,3000,6000
-9/11/2023,12:32:00 PM,R-10099,Drinks,Espresso Macchiato,1,4500,4500
-9/11/2023,12:12:00 PM,R-10098,Drinks,Capuccino,3,5000,15000
-9/11/2023,12:12:00 PM,R-10098,Drinks,Water,1,1000,1000
-9/11/2023,10:44:00 AM,R-10097,Pastries,Vanilla Muffins,1,2500,2500
-9/11/2023,10:04:00 AM,R-10096,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-9/11/2023,10:04:00 AM,R-10096,Drinks,Red Blush,1,3500,3500
-9/11/2023,10:31:00 AM,R-10095,Drinks,Espresso,1,3000,3000
-9/11/2023,10:31:00 AM,R-10095,Takeaways,Standard Takeaway Charges,1,500,500
-9/11/2023,10:03:00 AM,R-10094,Drinks,Cafe Latte,1,5000,5000
-9/11/2023,9:56:00 AM,R-10093,Drinks,Americano,1,5000,5000
-9/11/2023,9:56:00 AM,R-10093,Pastries,Brownies,1,4000,4000
-9/11/2023,9:21:00 AM,R-10092,Drinks,Espresso,1,3000,3000
-9/11/2023,9:21:00 AM,R-10092,ZO Kitchen - Food,Chocolate Muffin,2,2500,5000
-9/11/2023,9:18:00 AM,R-10091,Drinks,Capuccino,1,5000,5000
-8/11/2023,7:01:00 PM,R-10090,Drinks,Capuccino,1,5000,5000
-8/11/2023,7:01:00 PM,R-10090,Takeaways,Standard Takeaway Charges,1,500,500
-8/11/2023,6:59:00 PM,R-10089,Drinks,Capuccino,1,5000,5000
-8/11/2023,6:59:00 PM,R-10089,Takeaways,Standard Takeaway Charges,1,500,500
-8/11/2023,6:25:00 PM,R-10088,Drinks,Espresso,1,3000,3000
-8/11/2023,4:39:00 PM,R-10087,Drinks,Americano,1,5000,5000
-8/11/2023,4:39:00 PM,R-10087,Pastries,Vanilla Muffins,1,2500,2500
-8/11/2023,4:39:00 PM,R-10087,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-8/11/2023,4:03:00 PM,R-10086,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-8/11/2023,4:03:00 PM,R-10086,Pastries,Vanilla Muffins,1,2500,2500
-8/11/2023,4:03:00 PM,R-10086,Drinks,Immunity Juice,1,3000,3000
-8/11/2023,4:03:00 PM,R-10086,Pastries,Kasata (seseme),1,3000,3000
-8/11/2023,4:14:00 PM,R-10085,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-8/11/2023,4:14:00 PM,R-10085,Drinks,Bottled Soda,1,2000,2000
-8/11/2023,2:52:00 PM,R-10083,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-8/11/2023,2:28:00 PM,R-10082,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-8/11/2023,2:28:00 PM,R-10082,Drinks,Water,1,1000,1000
-8/11/2023,2:28:00 PM,R-10082,Drinks,Mango Juice 250ml,1,3000,3000
-8/11/2023,2:28:00 PM,R-10082,Drinks,Passion Juice 250ml,1,3000,3000
-8/11/2023,2:28:00 PM,R-10082,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-8/11/2023,2:18:00 PM,R-10081,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-8/11/2023,2:18:00 PM,R-10081,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-8/11/2023,2:18:00 PM,R-10081,Drinks,Mango Juice 250ml,1,3000,3000
-8/11/2023,1:22:00 PM,R-10079,Drinks,Mango Juice 250ml,1,3000,3000
-8/11/2023,1:22:00 PM,R-10079,Drinks,Passion Juice 250ml,1,3000,3000
-8/11/2023,1:22:00 PM,R-10079,Takeaways,Standard Takeaway Charges,1,500,500
-8/11/2023,1:02:00 PM,R-10078,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-8/11/2023,1:02:00 PM,R-10078,Drinks,Passion Juice 250ml,1,3000,3000
-8/11/2023,12:31:00 PM,R-10077,Pastries,Chocolate Croissants,1,4000,4000
-8/11/2023,11:00:00 AM,R-10075,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-8/11/2023,10:02:00 AM,R-10074,Drinks,Immunity Juice,1,3000,3000
-8/11/2023,10:02:00 AM,R-10073,Drinks,Americano,1,5000,5000
-8/11/2023,9:13:00 AM,R-10072,Drinks,Americano,1,5000,5000
-8/11/2023,9:13:00 AM,R-10072,Takeaways,Standard Takeaway Charges,1,500,500
-8/11/2023,9:12:00 AM,R-10071,Drinks,Espresso,1,3000,3000
-7/11/2023,6:56:00 PM,R-10070,Drinks,Capuccino,1,5000,5000
-7/11/2023,6:56:00 PM,R-10070,Takeaways,Standard Takeaway Charges,1,500,500
-7/11/2023,5:56:00 PM,R-10069,Pastries,Brownies,1,4000,4000
-7/11/2023,5:45:00 PM,R-10068,Drinks,Americano,1,5000,5000
-7/11/2023,5:45:00 PM,R-10068,Pastries,Vanilla Muffins,1,2500,2500
-7/11/2023,5:15:00 PM,R-10067,Drinks,Capuccino,1,5000,5000
-7/11/2023,5:15:00 PM,R-10067,Takeaways,Standard Takeaway Charges,1,500,500
-7/11/2023,4:56:00 PM,R-10066,Drinks,Mango Juice 250ml,1,3000,3000
-7/11/2023,4:56:00 PM,R-10066,Drinks,Passion Juice 250ml,1,3000,3000
-7/11/2023,4:45:00 PM,R-10065,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
-7/11/2023,4:45:00 PM,R-10065,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-7/11/2023,4:45:00 PM,R-10065,Drinks,Capuccino,2,5000,10000
-7/11/2023,4:45:00 PM,R-10065,Takeaways,Standard Takeaway Charges,2,500,1000
-7/11/2023,4:31:00 PM,R-10064,Drinks,Bottled Soda,1,2000,2000
-7/11/2023,3:43:00 PM,R-10062,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-7/11/2023,3:43:00 PM,R-10062,Drinks,Mango Juice 250ml,1,3000,3000
-7/11/2023,2:43:00 PM,R-10060,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-7/11/2023,2:41:00 PM,R-10059,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-7/11/2023,2:34:00 PM,R-10058,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-7/11/2023,2:34:00 PM,R-10058,Drinks,Bottled Soda,1,2000,2000
-7/11/2023,1:04:00 PM,R-10056,Drinks,Immunity Juice,1,3000,3000
-7/11/2023,1:25:00 PM,R-10055,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
-7/11/2023,1:23:00 PM,R-10054,Drinks,Water,1,1000,1000
-7/11/2023,1:23:00 PM,R-10053,ZO Kitchen - Food,Swahili bowl,1,9200,9200
-7/11/2023,12:14:00 PM,R-10052,Drinks,Iced Coffee,1,7000,7000
-7/11/2023,12:14:00 PM,R-10052,Drinks,Iced Chai Latte,1,7000,7000
-7/11/2023,12:12:00 PM,R-10051,Drinks,Bottled Soda,1,2000,2000
-7/11/2023,11:52:00 AM,R-10050,Drinks,Immunity Juice,1,3000,3000
-7/11/2023,11:52:00 AM,R-10050,Takeaways,Standard Takeaway Charges,1,500,500
-7/11/2023,10:28:00 AM,R-10049,Pastries,Chocolate Croissants,2,4000,8000
-7/11/2023,10:28:00 AM,R-10049,Pastries,Cinnamon Roll,1,4000,4000
-7/11/2023,10:28:00 AM,R-10049,Drinks,Vannila Classic Shake,1,9000,9000
-7/11/2023,10:28:00 AM,R-10049,Takeaways,Standard Takeaway Charges,1,500,500
-7/11/2023,9:04:00 AM,R-10047,Drinks,Capuccino,1,5000,5000
-7/11/2023,9:04:00 AM,R-10047,Takeaways,Standard Takeaway Charges,1,500,500
-7/11/2023,9:07:00 AM,R-10046,Drinks,Espresso,1,3000,3000
-7/11/2023,9:07:00 AM,R-10046,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-7/11/2023,9:06:00 AM,R-10045,Drinks,Americano,1,5000,5000
-7/11/2023,9:06:00 AM,R-10045,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-7/11/2023,8:36:00 AM,R-10044,Takeaways,Standard Takeaway Charges,1,500,500
-6/11/2023,6:02:00 PM,R-10043,Drinks,Americano,1,5000,5000
-6/11/2023,5:03:00 PM,R-10042,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-6/11/2023,5:03:00 PM,R-10042,Drinks,Mango Juice 250ml,1,3000,3000
-6/11/2023,5:14:00 PM,R-10041,ZO Kitchen - Food,Chicken Stir Fry Noodles,2,11500,23000
-6/11/2023,5:14:00 PM,R-10041,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-6/11/2023,5:14:00 PM,R-10041,ZO Kitchen - Food,Chicken Biryani Grab&Go,2,11500,23000
-6/11/2023,5:14:00 PM,R-10041,Drinks,Capuccino,1,5000,5000
-6/11/2023,5:14:00 PM,R-10041,Drinks,Cafe Latte,3,5000,15000
-6/11/2023,5:14:00 PM,R-10041,Takeaways,Standard Takeaway Charges,4,500,2000
-6/11/2023,5:12:00 PM,R-10040,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-6/11/2023,2:44:00 PM,R-10038,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-6/11/2023,2:44:00 PM,R-10038,Drinks,Red Blush,1,3500,3500
-6/11/2023,2:07:00 PM,R-10037,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-6/11/2023,2:07:00 PM,R-10037,Drinks,Water,1,1000,1000
-6/11/2023,2:05:00 PM,R-10036,Drinks,Water,1,1000,1000
-6/11/2023,2:05:00 PM,R-10035,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
-6/11/2023,1:47:00 PM,R-10033,ZO Kitchen - Food,Swahili bowl,2,11500,23000
-6/11/2023,1:47:00 PM,R-10033,Drinks,Bottled Soda,2,2000,4000
-6/11/2023,1:34:00 PM,R-10032,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-6/11/2023,1:34:00 PM,R-10032,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
-6/11/2023,12:21:00 PM,R-10030,Drinks,Mango Juice 250ml,1,3000,3000
-6/11/2023,12:21:00 PM,R-10030,Drinks,Passion Juice 250ml,1,3000,3000
-6/11/2023,12:21:00 PM,R-10030,Takeaways,Standard Takeaway Charges,1,500,500
-6/11/2023,12:02:00 PM,R-10029,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-6/11/2023,11:52:00 AM,R-10028,Drinks,Kadak Chai,2,4500,9000
-6/11/2023,11:04:00 AM,R-10027,Drinks,Water,1,1000,1000
-6/11/2023,11:04:00 AM,R-10027,Drinks,Mint Pinade,1,7500,7500
-6/11/2023,11:32:00 AM,R-10025,Drinks,Americano,1,5000,5000
-6/11/2023,11:01:00 AM,R-10024,Drinks,Turmeric Latte,1,7000,7000
-6/11/2023,11:01:00 AM,R-10024,Takeaways,Standard Takeaway Charges,2,500,1000
-6/11/2023,11:01:00 AM,R-10024,Drinks,Immunity Juice,1,3000,3000
-6/11/2023,11:01:00 AM,R-10024,Takeaways,Standard Takeaway Charges,1,500,500
-6/11/2023,9:52:00 AM,R-10023,Consumeables Stock,Pringles (Salt & Vinegar),1,3500,3500
-6/11/2023,9:04:00 AM,R-10022,Drinks,Espresso,1,3000,3000
-6/11/2023,9:04:00 AM,R-10022,ZO Kitchen - Food,Chocolate Muffin,2,2500,5000
-6/11/2023,9:36:00 AM,R-10021,Drinks,Capuccino,1,5000,5000
-4/11/2023,2:52:00 PM,R-10018,Drinks,Capuccino,1,5000,5000
-4/11/2023,2:36:00 PM,R-10017,Pastries,Brownies,2,4000,8000
-4/11/2023,2:36:00 PM,R-10017,Pastries,Kasata (seseme),1,3000,3000
-4/11/2023,2:01:00 PM,R-10016,Pastries,Brownies,1,4000,4000
-4/11/2023,2:01:00 PM,R-10016,Pastries,Kasata (seseme),1,3000,3000
-4/11/2023,2:00:00 PM,R-10015,Drinks,Capuccino,1,5000,5000
-4/11/2023,2:00:00 PM,R-10015,Takeaways,Standard Takeaway Charges,1,500,500
-4/11/2023,1:46:00 PM,R-10014,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-4/11/2023,1:03:00 PM,R-10013,Pastries,Cinnamon Roll,1,4000,4000
-4/11/2023,1:29:00 PM,R-10012,Drinks,Espresso,1,3000,3000
-4/11/2023,1:29:00 PM,R-10011,Drinks,Americano,1,5000,5000
-4/11/2023,11:56:00 AM,R-10010,Drinks,Espresso,1,3000,3000
-4/11/2023,11:56:00 AM,R-10010,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-4/11/2023,9:05:00 AM,R-10007,Drinks,Capuccino,1,5000,5000
-4/11/2023,9:32:00 AM,R-10006,Drinks,Capuccino,1,5000,5000
-4/11/2023,9:32:00 AM,R-10006,Takeaways,Standard Takeaway Charges,1,500,500
-3/11/2023,7:46:00 PM,R-10004,Drinks,Ginger Mint Fusion,1,4000,4000
-3/11/2023,7:46:00 PM,R-10004,Takeaways,Standard Takeaway Charges,1,500,500
-3/11/2023,6:38:00 PM,R-10003,Drinks,Capuccino,1,5000,5000
-3/11/2023,6:38:00 PM,R-10003,Drinks,Water,1,1000,1000
-3/11/2023,6:38:00 PM,R-10003,Drinks,Iced Coffee,1,7000,7000
-3/11/2023,5:04:00 PM,R-10001,Pastries,Cinnamon Roll,1,4000,4000
-3/11/2023,4:53:00 PM,R-10000,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-3/11/2023,4:53:00 PM,R-10000,Drinks,Bottled Soda,1,2000,2000
-3/11/2023,4:53:00 PM,R-10000,Takeaways,Standard Takeaway Charges,1,500,500
-3/11/2023,3:12:00 PM,R-9998,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-3/11/2023,3:12:00 PM,R-9998,Drinks,Red Blush,1,3500,3500
-3/11/2023,3:09:00 PM,R-9997,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-3/11/2023,2:05:00 PM,R-9996,Pastries,Brownies,1,4000,4000
-3/11/2023,2:05:00 PM,R-9996,Drinks,Mango Juice 250ml,1,3000,3000
-3/11/2023,2:47:00 PM,R-9995,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-3/11/2023,2:47:00 PM,R-9995,Drinks,Bottled Soda,1,2000,2000
-3/11/2023,1:03:00 PM,R-9995,Drinks,Hill Water (Lemon and Mint),1,4500,4500
-3/11/2023,1:03:00 PM,R-9991,Drinks,Americano,1,5000,5000
-3/11/2023,12:06:00 PM,R-9990,Drinks,Americano,1,5000,5000
-3/11/2023,12:06:00 PM,R-9990,Pastries,Cookies,2,1000,2000
-3/11/2023,12:05:00 PM,R-9989,ZO Kitchen - Food,Breakfast (Eggs Your way),1,6000,6000
-3/11/2023,10:25:00 AM,R-9986,Drinks,Americano,1,5000,5000
-3/11/2023,10:25:00 AM,R-9986,Takeaways,Standard Takeaway Charges,1,500,500
-3/11/2023,10:25:00 AM,R-9986,Pastries,Chocolate Croissants,1,4000,4000
-3/11/2023,9:38:00 AM,R-9985,Drinks,Capuccino,1,5000,5000
-3/11/2023,9:02:00 AM,R-9984,ZO Kitchen - Food,Chocolate Muffin,2,2500,5000
-3/11/2023,9:02:00 AM,R-9984,Drinks,Espresso,1,3000,3000
-2/11/2023,6:33:00 PM,R-9983,Drinks,Mango Juice 250ml,2,3000,6000
-2/11/2023,6:33:00 PM,R-9982,Drinks,Capuccino,1,5000,5000
-2/11/2023,6:27:00 PM,R-9981,Pastries,Cookies,2,1000,2000
-2/11/2023,6:26:00 PM,R-9980,Drinks,Cafe Latte,1,5000,5000
-2/11/2023,6:26:00 PM,R-9980,Pastries,Kasata (seseme),1,3000,3000
-2/11/2023,6:26:00 PM,R-9980,Takeaways,Standard Takeaway Charges,1,500,500
-2/11/2023,4:44:00 PM,R-9979,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-2/11/2023,4:43:00 PM,R-9978,Drinks,Americano,1,5000,5000
-2/11/2023,4:43:00 PM,R-9978,Pastries,Vanilla Muffins,1,2500,2500
-2/11/2023,4:43:00 PM,R-9978,Drinks,Ginger Knoc,1,4000,4000
-2/11/2023,3:55:00 PM,R-9976,Pastries,Chocolate Croissants,2,4000,8000
-2/11/2023,3:54:00 PM,R-9975,Drinks,Immunity Juice,1,3000,3000
-2/11/2023,3:54:00 PM,R-9975,Consumeables Stock,Pringles (Hot & Spicy),1,3500,3500
-2/11/2023,1:58:00 PM,R-9973,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-2/11/2023,1:58:00 PM,R-9973,Drinks,Bottled Soda,1,2000,2000
-2/11/2023,1:41:00 PM,R-9972,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-2/11/2023,1:35:00 PM,R-9971,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-2/11/2023,1:35:00 PM,R-9971,Drinks,Ginger Knoc,1,4000,4000
-2/11/2023,1:28:00 PM,R-9970,Drinks,Passion Juice 250ml,1,3000,3000
-2/11/2023,1:28:00 PM,R-9970,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-2/11/2023,1:27:00 PM,R-9969,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-2/11/2023,12:43:00 PM,R-9968,Drinks,Cafe Mocha,1,7000,7000
-2/11/2023,12:43:00 PM,R-9968,Takeaways,Standard Takeaway Charges,1,500,500
-2/11/2023,12:23:00 PM,R-9967,Drinks,Red Blush,1,3500,3500
-2/11/2023,12:23:00 PM,R-9967,Pastries,Plain Croissants,1,4000,4000
-2/11/2023,12:22:00 PM,R-9966,ZO Kitchen - Food,Breakfast (Eggs Your way),1,6000,6000
-2/11/2023,12:18:00 PM,R-9965,Drinks,Ginger Knoc,1,4000,4000
-2/11/2023,12:18:00 PM,R-9965,Takeaways,Standard Takeaway Charges,1,500,500
-2/11/2023,9:04:00 AM,R-9964,Drinks,Luxury Hot Chocolate,1,9000,9000
-2/11/2023,9:04:00 AM,R-9964,Takeaways,Standard Takeaway Charges,1,500,500
-1/11/2023,7:39:00 PM,R-9962,Drinks,Capuccino,2,5000,10000
-1/11/2023,7:39:00 PM,R-9962,Takeaways,Standard Takeaway Charges,2,500,1000
-1/11/2023,7:39:00 PM,R-9961,Drinks,Capuccino,1,5000,5000
-1/11/2023,7:39:00 PM,R-9961,Drinks,ZO Power,1,9000,9000
-1/11/2023,6:41:00 PM,R-9960,Drinks,Kadak Chai,2,4500,9000
-1/11/2023,6:41:00 PM,R-9960,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
-1/11/2023,6:41:00 PM,R-9960,Pastries,Vanilla Muffins,1,2500,2500
-1/11/2023,6:04:00 PM,R-9959,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-1/11/2023,4:46:00 PM,R-9958,Consumeables Stock,Rosho Oat - Choco Brownie,1,5000,5000
-1/11/2023,4:37:00 PM,R-9957,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
-1/11/2023,4:35:00 PM,R-9956,Drinks,Immunity Juice,1,3000,3000
-1/11/2023,4:15:00 PM,R-9955,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-1/11/2023,4:07:00 PM,R-9954,Drinks,Water,1,1000,1000
-1/11/2023,3:35:00 PM,R-9952,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-1/11/2023,3:29:00 PM,R-9951,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
-1/11/2023,3:29:00 PM,R-9951,Drinks,Bottled Soda,1,2000,2000
-1/11/2023,3:16:00 PM,R-9950,Drinks,ZO Shake,1,9000,9000
-1/11/2023,3:16:00 PM,R-9950,Takeaways,Standard Takeaway Charges,1,500,500
-1/11/2023,2:55:00 PM,R-9949,Takeaways,SW Chicken Tikka - Grab & Go,1,7600,7600
-1/11/2023,2:49:00 PM,R-9948,ZO Kitchen - Food,Swahili bowl,1,11500,11500
-1/11/2023,2:26:00 PM,R-9946,Drinks,Passion Juice 250ml,1,3000,3000
-1/11/2023,2:26:00 PM,R-9946,Takeaways,Standard Takeaway Charges,1,500,500
-1/11/2023,2:18:00 PM,R-9945,ZO Kitchen - Food,Breakfast (Eggs Your way),1,6000,6000
-1/11/2023,2:15:00 PM,R-9944,Drinks,Red Blush,1,3500,3500
-1/11/2023,2:15:00 PM,R-9944,Pastries,Cookies,2,1000,2000
-1/11/2023,1:36:00 PM,R-9943,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
-1/11/2023,1:36:00 PM,R-9943,Drinks,Passion Juice 250ml,1,3000,3000
-1/11/2023,1:24:00 PM,R-9942,Drinks,Capuccino,1,5000,5000
-1/11/2023,1:24:00 PM,R-9942,Drinks,Immunity Juice,1,3000,3000
-1/11/2023,1:14:00 PM,R-9941,Drinks,Americano,1,5000,5000
-1/11/2023,1:14:00 PM,R-9941,Takeaways,Standard Takeaway Charges,1,500,500
-1/11/2023,12:44:00 PM,R-9940,Drinks,Hill Water (Lemon and Mint),1,4500,4500
-1/11/2023,12:44:00 PM,R-9940,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
-1/11/2023,11:09:00 AM,R-9938,Drinks,Americano,2,5000,10000
-1/11/2023,11:09:00 AM,R-9938,Takeaways,Standard Takeaway Charges,2,500,1000
-1/11/2023,10:54:00 AM,R-9937,Pastries,Chocolate Croissants,2,4000,8000
-1/11/2023,10:54:00 AM,R-9937,Drinks,Capuccino,1,5000,5000
-1/11/2023,10:05:00 AM,R-9936,Pastries,Plain Croissants,1,4000,4000
-1/11/2023,10:26:00 AM,R-9935,Drinks,Capuccino,1,5000,5000
-1/11/2023,9:59:00 AM,R-9934,Drinks,Espresso,1,3000,3000
-1/11/2023,9:59:00 AM,R-9934,ZO Kitchen - Food,Chocolate Muffin,2,2500,5000
-1/11/2023,9:29:00 AM,R-9933,Drinks,Tropical Mix,1,8000,8000
-1/11/2023,9:29:00 AM,R-9933,Takeaways,Standard Takeaway Charges,1,500,500
-1/11/2023,9:29:00 AM,R-9933,Pastries,Plain Croissants,1,4000,4000
-1/11/2023,9:29:00 AM,R-9933,Pastries,Cinnamon Roll,1,4000,4000
-1/11/2023,8:48:00 AM,R-9932,Pastries,Plain Croissants,1,4000,4000
-1/11/2023,8:47:00 AM,R-9931,Drinks,Kadak Chai,2,4500,9000
+11/10/2023,7:49:00 PM,R-10145,Drinks,Capuccino,1,5000,5000
+11/10/2023,7:49:00 PM,R-10145,Takeaways,Standard Takeaway Charges,1,500,500
+11/10/2023,6:13:00 PM,R-10144,Drinks,Luxury Hot Chocolate,1,9000,9000
+11/10/2023,6:13:00 PM,R-10144,Pastries,Plain Croissants,1,4000,4000
+11/10/2023,6:13:00 PM,R-10144,Takeaways,Standard Takeaway Charges,1,500,500
+11/10/2023,5:27:00 PM,R-10143,Drinks,Cafe Latte,1,5000,5000
+11/10/2023,5:05:00 PM,R-10142,Drinks,Capuccino,1,5000,5000
+11/10/2023,5:05:00 PM,R-10142,Drinks,Passion Juice 250ml,1,3000,3000
+11/10/2023,5:04:00 PM,R-10141,Drinks,Capuccino,1,5000,5000
+11/10/2023,5:04:00 PM,R-10141,Takeaways,Standard Takeaway Charges,1,500,500
+11/10/2023,5:04:00 PM,R-10140,Drinks,Immunity Juice,2,3000,6000
+11/10/2023,5:03:00 PM,R-10139,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/10/2023,5:02:00 PM,R-10138,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/10/2023,5:02:00 PM,R-10138,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/10/2023,5:02:00 PM,R-10138,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
+11/10/2023,5:02:00 PM,R-10138,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/10/2023,4:37:00 PM,R-10136,Pastries,Plain Croissants,1,4000,4000
+11/10/2023,4:37:00 PM,R-10136,Pastries,Cinnamon Roll,1,4000,4000
+11/10/2023,3:52:00 PM,R-10135,ZO Kitchen - Food,Butter chicken and rice,2,11500,23000
+11/10/2023,3:52:00 PM,R-10135,Drinks,Bottled Soda,1,2000,2000
+11/10/2023,3:52:00 PM,R-10135,Drinks,Water,1,1000,1000
+11/10/2023,3:49:00 PM,R-10134,Drinks,Capuccino,2,5000,10000
+11/10/2023,3:49:00 PM,R-10134,Takeaways,Standard Takeaway Charges,2,500,1000
+11/10/2023,3:47:00 PM,R-10133,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/10/2023,3:47:00 PM,R-10133,Drinks,Red Blush,1,3500,3500
+11/10/2023,3:28:00 PM,R-10132,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/10/2023,3:28:00 PM,R-10132,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/10/2023,3:28:00 PM,R-10132,Drinks,Bottled Soda,2,2000,4000
+11/10/2023,2:26:00 PM,R-10129,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/10/2023,2:26:00 PM,R-10129,Drinks,Bottled Soda,1,2000,2000
+11/10/2023,2:26:00 PM,R-10129,Takeaways,Standard Takeaway Charges,1,500,500
+11/10/2023,2:25:00 PM,R-10128,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/10/2023,1:03:00 PM,R-10125,Drinks,ZO Power,2,9000,18000
+11/10/2023,1:03:00 PM,R-10125,Takeaways,SW Chicken Tikka - Grab & Go,2,9500,19000
+11/10/2023,1:03:00 PM,R-10125,Takeaways,Standard Takeaway Charges,1,500,500
+11/10/2023,12:26:00 PM,R-10124,Drinks,Americano,1,5000,5000
+11/10/2023,12:26:00 PM,R-10124,Takeaways,Standard Takeaway Charges,1,500,500
+11/10/2023,11:15:00 AM,R-10123,Drinks,Americano,1,5000,5000
+11/10/2023,10:27:00 AM,R-10122,Drinks,Water,1,1000,1000
+11/10/2023,9:02:00 AM,R-10121,Drinks,Espresso,1,3000,3000
+11/10/2023,8:35:00 AM,R-10120,Drinks,Capuccino,1,5000,5000
+11/10/2023,8:35:00 AM,R-10120,Pastries,Cookies,1,1000,1000
+11/10/2023,8:35:00 AM,R-10120,Takeaways,Standard Takeaway Charges,1,500,500
+11/9/2023,7:08:00 PM,R-10119,Drinks,Capuccino,1,5000,5000
+11/9/2023,7:08:00 PM,R-10119,Takeaways,Standard Takeaway Charges,1,500,500
+11/9/2023,6:08:00 PM,R-10118,Drinks,Capuccino,1,5000,5000
+11/9/2023,6:08:00 PM,R-10118,Drinks,Water,2,1000,2000
+11/9/2023,6:05:00 PM,R-10117,Drinks,Americano,2,5000,10000
+11/9/2023,6:05:00 PM,R-10117,Takeaways,Standard Takeaway Charges,2,500,1000
+11/9/2023,5:57:00 PM,R-10116,Drinks,Red Blush,1,3500,3500
+11/9/2023,5:57:00 PM,R-10116,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/9/2023,4:44:00 PM,R-10115,Drinks,Capuccino,1,5000,5000
+11/9/2023,4:44:00 PM,R-10115,Takeaways,Standard Takeaway Charges,1,500,500
+11/9/2023,4:04:00 PM,R-10114,Drinks,Americano,1,5000,5000
+11/9/2023,4:04:00 PM,R-10114,Pastries,Brownies,1,4000,4000
+11/9/2023,4:04:00 PM,R-10114,Takeaways,SW Cheese & Tomato- Grab & Go,1,7500,7500
+11/9/2023,4:04:00 PM,R-10114,Drinks,Mango Juice 250ml,1,3000,3000
+11/9/2023,3:11:00 PM,R-10112,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/9/2023,3:11:00 PM,R-10112,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/9/2023,3:11:00 PM,R-10112,Drinks,Bottled Soda,2,2000,4000
+11/9/2023,3:05:00 PM,R-10111,Drinks,Capuccino,1,5000,5000
+11/9/2023,3:05:00 PM,R-10111,Drinks,Cafe Latte,1,5000,5000
+11/9/2023,3:05:00 PM,R-10111,Takeaways,Standard Takeaway Charges,2,500,1000
+11/9/2023,2:51:00 PM,R-10110,Drinks,Mango Juice 250ml,1,3000,3000
+11/9/2023,2:51:00 PM,R-10110,Drinks,Passion Juice 250ml,1,3000,3000
+11/9/2023,2:51:00 PM,R-10110,Takeaways,Standard Takeaway Charges,1,500,500
+11/9/2023,2:05:00 PM,R-10109,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/9/2023,2:05:00 PM,R-10109,Drinks,Passion Juice 250ml,1,3000,3000
+11/9/2023,2:22:00 PM,R-10108,Consumeables Stock,Rosho Oat - Choco Brownie,1,5000,5000
+11/9/2023,2:13:00 PM,R-10107,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/9/2023,2:12:00 PM,R-10106,Drinks,Water,1,1000,1000
+11/9/2023,2:01:00 PM,R-10105,Drinks,Immunity Juice,1,3000,3000
+11/9/2023,2:01:00 PM,R-10104,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/9/2023,2:02:00 PM,R-10103,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/9/2023,12:48:00 PM,R-10101,Pastries,Vanilla Muffins,1,2500,2500
+11/9/2023,12:48:00 PM,R-10101,Drinks,Red Blush,1,3500,3500
+11/9/2023,12:33:00 PM,R-10100,ZO Kitchen - Food,Chicken Stir Fry Noodles,2,11500,23000
+11/9/2023,12:33:00 PM,R-10100,Drinks,Immunity Juice,2,3000,6000
+11/9/2023,12:32:00 PM,R-10099,Drinks,Espresso Macchiato,1,4500,4500
+11/9/2023,12:12:00 PM,R-10098,Drinks,Capuccino,3,5000,15000
+11/9/2023,12:12:00 PM,R-10098,Drinks,Water,1,1000,1000
+11/9/2023,10:44:00 AM,R-10097,Pastries,Vanilla Muffins,1,2500,2500
+11/9/2023,10:04:00 AM,R-10096,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/9/2023,10:04:00 AM,R-10096,Drinks,Red Blush,1,3500,3500
+11/9/2023,10:31:00 AM,R-10095,Drinks,Espresso,1,3000,3000
+11/9/2023,10:31:00 AM,R-10095,Takeaways,Standard Takeaway Charges,1,500,500
+11/9/2023,10:03:00 AM,R-10094,Drinks,Cafe Latte,1,5000,5000
+11/9/2023,9:56:00 AM,R-10093,Drinks,Americano,1,5000,5000
+11/9/2023,9:56:00 AM,R-10093,Pastries,Brownies,1,4000,4000
+11/9/2023,9:21:00 AM,R-10092,Drinks,Espresso,1,3000,3000
+11/9/2023,9:21:00 AM,R-10092,ZO Kitchen - Food,Chocolate Muffin,2,2500,5000
+11/9/2023,9:18:00 AM,R-10091,Drinks,Capuccino,1,5000,5000
+11/8/2023,7:01:00 PM,R-10090,Drinks,Capuccino,1,5000,5000
+11/8/2023,7:01:00 PM,R-10090,Takeaways,Standard Takeaway Charges,1,500,500
+11/8/2023,6:59:00 PM,R-10089,Drinks,Capuccino,1,5000,5000
+11/8/2023,6:59:00 PM,R-10089,Takeaways,Standard Takeaway Charges,1,500,500
+11/8/2023,6:25:00 PM,R-10088,Drinks,Espresso,1,3000,3000
+11/8/2023,4:39:00 PM,R-10087,Drinks,Americano,1,5000,5000
+11/8/2023,4:39:00 PM,R-10087,Pastries,Vanilla Muffins,1,2500,2500
+11/8/2023,4:39:00 PM,R-10087,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/8/2023,4:03:00 PM,R-10086,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/8/2023,4:03:00 PM,R-10086,Pastries,Vanilla Muffins,1,2500,2500
+11/8/2023,4:03:00 PM,R-10086,Drinks,Immunity Juice,1,3000,3000
+11/8/2023,4:03:00 PM,R-10086,Pastries,Kasata (seseme),1,3000,3000
+11/8/2023,4:14:00 PM,R-10085,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/8/2023,4:14:00 PM,R-10085,Drinks,Bottled Soda,1,2000,2000
+11/8/2023,2:52:00 PM,R-10083,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/8/2023,2:28:00 PM,R-10082,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/8/2023,2:28:00 PM,R-10082,Drinks,Water,1,1000,1000
+11/8/2023,2:28:00 PM,R-10082,Drinks,Mango Juice 250ml,1,3000,3000
+11/8/2023,2:28:00 PM,R-10082,Drinks,Passion Juice 250ml,1,3000,3000
+11/8/2023,2:28:00 PM,R-10082,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/8/2023,2:18:00 PM,R-10081,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/8/2023,2:18:00 PM,R-10081,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/8/2023,2:18:00 PM,R-10081,Drinks,Mango Juice 250ml,1,3000,3000
+11/8/2023,1:22:00 PM,R-10079,Drinks,Mango Juice 250ml,1,3000,3000
+11/8/2023,1:22:00 PM,R-10079,Drinks,Passion Juice 250ml,1,3000,3000
+11/8/2023,1:22:00 PM,R-10079,Takeaways,Standard Takeaway Charges,1,500,500
+11/8/2023,1:02:00 PM,R-10078,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/8/2023,1:02:00 PM,R-10078,Drinks,Passion Juice 250ml,1,3000,3000
+11/8/2023,12:31:00 PM,R-10077,Pastries,Chocolate Croissants,1,4000,4000
+11/8/2023,11:00:00 AM,R-10075,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/8/2023,10:02:00 AM,R-10074,Drinks,Immunity Juice,1,3000,3000
+11/8/2023,10:02:00 AM,R-10073,Drinks,Americano,1,5000,5000
+11/8/2023,9:13:00 AM,R-10072,Drinks,Americano,1,5000,5000
+11/8/2023,9:13:00 AM,R-10072,Takeaways,Standard Takeaway Charges,1,500,500
+11/8/2023,9:12:00 AM,R-10071,Drinks,Espresso,1,3000,3000
+11/7/2023,6:56:00 PM,R-10070,Drinks,Capuccino,1,5000,5000
+11/7/2023,6:56:00 PM,R-10070,Takeaways,Standard Takeaway Charges,1,500,500
+11/7/2023,5:56:00 PM,R-10069,Pastries,Brownies,1,4000,4000
+11/7/2023,5:45:00 PM,R-10068,Drinks,Americano,1,5000,5000
+11/7/2023,5:45:00 PM,R-10068,Pastries,Vanilla Muffins,1,2500,2500
+11/7/2023,5:15:00 PM,R-10067,Drinks,Capuccino,1,5000,5000
+11/7/2023,5:15:00 PM,R-10067,Takeaways,Standard Takeaway Charges,1,500,500
+11/7/2023,4:56:00 PM,R-10066,Drinks,Mango Juice 250ml,1,3000,3000
+11/7/2023,4:56:00 PM,R-10066,Drinks,Passion Juice 250ml,1,3000,3000
+11/7/2023,4:45:00 PM,R-10065,ZO Kitchen - Food,Chicken Stir Fry Noodles,1,11500,11500
+11/7/2023,4:45:00 PM,R-10065,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/7/2023,4:45:00 PM,R-10065,Drinks,Capuccino,2,5000,10000
+11/7/2023,4:45:00 PM,R-10065,Takeaways,Standard Takeaway Charges,2,500,1000
+11/7/2023,4:31:00 PM,R-10064,Drinks,Bottled Soda,1,2000,2000
+11/7/2023,3:43:00 PM,R-10062,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/7/2023,3:43:00 PM,R-10062,Drinks,Mango Juice 250ml,1,3000,3000
+11/7/2023,2:43:00 PM,R-10060,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/7/2023,2:41:00 PM,R-10059,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/7/2023,2:34:00 PM,R-10058,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/7/2023,2:34:00 PM,R-10058,Drinks,Bottled Soda,1,2000,2000
+11/7/2023,1:04:00 PM,R-10056,Drinks,Immunity Juice,1,3000,3000
+11/7/2023,1:25:00 PM,R-10055,ZO Kitchen - Food,Chicken Fried Rice,2,11500,23000
+11/7/2023,1:23:00 PM,R-10054,Drinks,Water,1,1000,1000
+11/7/2023,1:23:00 PM,R-10053,ZO Kitchen - Food,Swahili bowl,1,9200,9200
+11/7/2023,12:14:00 PM,R-10052,Drinks,Iced Coffee,1,7000,7000
+11/7/2023,12:14:00 PM,R-10052,Drinks,Iced Chai Latte,1,7000,7000
+11/7/2023,12:12:00 PM,R-10051,Drinks,Bottled Soda,1,2000,2000
+11/7/2023,11:52:00 AM,R-10050,Drinks,Immunity Juice,1,3000,3000
+11/7/2023,11:52:00 AM,R-10050,Takeaways,Standard Takeaway Charges,1,500,500
+11/7/2023,10:28:00 AM,R-10049,Pastries,Chocolate Croissants,2,4000,8000
+11/7/2023,10:28:00 AM,R-10049,Pastries,Cinnamon Roll,1,4000,4000
+11/7/2023,10:28:00 AM,R-10049,Drinks,Vannila Classic Shake,1,9000,9000
+11/7/2023,10:28:00 AM,R-10049,Takeaways,Standard Takeaway Charges,1,500,500
+11/7/2023,9:04:00 AM,R-10047,Drinks,Capuccino,1,5000,5000
+11/7/2023,9:04:00 AM,R-10047,Takeaways,Standard Takeaway Charges,1,500,500
+11/7/2023,9:07:00 AM,R-10046,Drinks,Espresso,1,3000,3000
+11/7/2023,9:07:00 AM,R-10046,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/7/2023,9:06:00 AM,R-10045,Drinks,Americano,1,5000,5000
+11/7/2023,9:06:00 AM,R-10045,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/7/2023,8:36:00 AM,R-10044,Takeaways,Standard Takeaway Charges,1,500,500
+11/6/2023,6:02:00 PM,R-10043,Drinks,Americano,1,5000,5000
+11/6/2023,5:03:00 PM,R-10042,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/6/2023,5:03:00 PM,R-10042,Drinks,Mango Juice 250ml,1,3000,3000
+11/6/2023,5:14:00 PM,R-10041,ZO Kitchen - Food,Chicken Stir Fry Noodles,2,11500,23000
+11/6/2023,5:14:00 PM,R-10041,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/6/2023,5:14:00 PM,R-10041,ZO Kitchen - Food,Chicken Biryani Grab&Go,2,11500,23000
+11/6/2023,5:14:00 PM,R-10041,Drinks,Capuccino,1,5000,5000
+11/6/2023,5:14:00 PM,R-10041,Drinks,Cafe Latte,3,5000,15000
+11/6/2023,5:14:00 PM,R-10041,Takeaways,Standard Takeaway Charges,4,500,2000
+11/6/2023,5:12:00 PM,R-10040,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/6/2023,2:44:00 PM,R-10038,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/6/2023,2:44:00 PM,R-10038,Drinks,Red Blush,1,3500,3500
+11/6/2023,2:07:00 PM,R-10037,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/6/2023,2:07:00 PM,R-10037,Drinks,Water,1,1000,1000
+11/6/2023,2:05:00 PM,R-10036,Drinks,Water,1,1000,1000
+11/6/2023,2:05:00 PM,R-10035,Takeaways,Salad Chicken tikka - Grab & Go,1,6400,6400
+11/6/2023,1:47:00 PM,R-10033,ZO Kitchen - Food,Swahili bowl,2,11500,23000
+11/6/2023,1:47:00 PM,R-10033,Drinks,Bottled Soda,2,2000,4000
+11/6/2023,1:34:00 PM,R-10032,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/6/2023,1:34:00 PM,R-10032,Takeaways,Salad Chicken tikka - Grab & Go,1,8000,8000
+11/6/2023,12:21:00 PM,R-10030,Drinks,Mango Juice 250ml,1,3000,3000
+11/6/2023,12:21:00 PM,R-10030,Drinks,Passion Juice 250ml,1,3000,3000
+11/6/2023,12:21:00 PM,R-10030,Takeaways,Standard Takeaway Charges,1,500,500
+11/6/2023,12:02:00 PM,R-10029,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/6/2023,11:52:00 AM,R-10028,Drinks,Kadak Chai,2,4500,9000
+11/6/2023,11:04:00 AM,R-10027,Drinks,Water,1,1000,1000
+11/6/2023,11:04:00 AM,R-10027,Drinks,Mint Pinade,1,7500,7500
+11/6/2023,11:32:00 AM,R-10025,Drinks,Americano,1,5000,5000
+11/6/2023,11:01:00 AM,R-10024,Drinks,Turmeric Latte,1,7000,7000
+11/6/2023,11:01:00 AM,R-10024,Takeaways,Standard Takeaway Charges,2,500,1000
+11/6/2023,11:01:00 AM,R-10024,Drinks,Immunity Juice,1,3000,3000
+11/6/2023,11:01:00 AM,R-10024,Takeaways,Standard Takeaway Charges,1,500,500
+11/6/2023,9:52:00 AM,R-10023,Consumeables Stock,Pringles (Salt & Vinegar),1,3500,3500
+11/6/2023,9:04:00 AM,R-10022,Drinks,Espresso,1,3000,3000
+11/6/2023,9:04:00 AM,R-10022,ZO Kitchen - Food,Chocolate Muffin,2,2500,5000
+11/6/2023,9:36:00 AM,R-10021,Drinks,Capuccino,1,5000,5000
+11/4/2023,2:52:00 PM,R-10018,Drinks,Capuccino,1,5000,5000
+11/4/2023,2:36:00 PM,R-10017,Pastries,Brownies,2,4000,8000
+11/4/2023,2:36:00 PM,R-10017,Pastries,Kasata (seseme),1,3000,3000
+11/4/2023,2:01:00 PM,R-10016,Pastries,Brownies,1,4000,4000
+11/4/2023,2:01:00 PM,R-10016,Pastries,Kasata (seseme),1,3000,3000
+11/4/2023,2:00:00 PM,R-10015,Drinks,Capuccino,1,5000,5000
+11/4/2023,2:00:00 PM,R-10015,Takeaways,Standard Takeaway Charges,1,500,500
+11/4/2023,1:46:00 PM,R-10014,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/4/2023,1:03:00 PM,R-10013,Pastries,Cinnamon Roll,1,4000,4000
+11/4/2023,1:29:00 PM,R-10012,Drinks,Espresso,1,3000,3000
+11/4/2023,1:29:00 PM,R-10011,Drinks,Americano,1,5000,5000
+11/4/2023,11:56:00 AM,R-10010,Drinks,Espresso,1,3000,3000
+11/4/2023,11:56:00 AM,R-10010,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/4/2023,9:05:00 AM,R-10007,Drinks,Capuccino,1,5000,5000
+11/4/2023,9:32:00 AM,R-10006,Drinks,Capuccino,1,5000,5000
+11/4/2023,9:32:00 AM,R-10006,Takeaways,Standard Takeaway Charges,1,500,500
+11/3/2023,7:46:00 PM,R-10004,Drinks,Ginger Mint Fusion,1,4000,4000
+11/3/2023,7:46:00 PM,R-10004,Takeaways,Standard Takeaway Charges,1,500,500
+11/3/2023,6:38:00 PM,R-10003,Drinks,Capuccino,1,5000,5000
+11/3/2023,6:38:00 PM,R-10003,Drinks,Water,1,1000,1000
+11/3/2023,6:38:00 PM,R-10003,Drinks,Iced Coffee,1,7000,7000
+11/3/2023,5:04:00 PM,R-10001,Pastries,Cinnamon Roll,1,4000,4000
+11/3/2023,4:53:00 PM,R-10000,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/3/2023,4:53:00 PM,R-10000,Drinks,Bottled Soda,1,2000,2000
+11/3/2023,4:53:00 PM,R-10000,Takeaways,Standard Takeaway Charges,1,500,500
+11/3/2023,3:12:00 PM,R-9998,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/3/2023,3:12:00 PM,R-9998,Drinks,Red Blush,1,3500,3500
+11/3/2023,3:09:00 PM,R-9997,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/3/2023,2:05:00 PM,R-9996,Pastries,Brownies,1,4000,4000
+11/3/2023,2:05:00 PM,R-9996,Drinks,Mango Juice 250ml,1,3000,3000
+11/3/2023,2:47:00 PM,R-9995,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/3/2023,2:47:00 PM,R-9995,Drinks,Bottled Soda,1,2000,2000
+11/3/2023,1:03:00 PM,R-9995,Drinks,Hill Water (Lemon and Mint),1,4500,4500
+11/3/2023,1:03:00 PM,R-9991,Drinks,Americano,1,5000,5000
+11/3/2023,12:06:00 PM,R-9990,Drinks,Americano,1,5000,5000
+11/3/2023,12:06:00 PM,R-9990,Pastries,Cookies,2,1000,2000
+11/3/2023,12:05:00 PM,R-9989,ZO Kitchen - Food,Breakfast (Eggs Your way),1,6000,6000
+11/3/2023,10:25:00 AM,R-9986,Drinks,Americano,1,5000,5000
+11/3/2023,10:25:00 AM,R-9986,Takeaways,Standard Takeaway Charges,1,500,500
+11/3/2023,10:25:00 AM,R-9986,Pastries,Chocolate Croissants,1,4000,4000
+11/3/2023,9:38:00 AM,R-9985,Drinks,Capuccino,1,5000,5000
+11/3/2023,9:02:00 AM,R-9984,ZO Kitchen - Food,Chocolate Muffin,2,2500,5000
+11/3/2023,9:02:00 AM,R-9984,Drinks,Espresso,1,3000,3000
+11/2/2023,6:33:00 PM,R-9983,Drinks,Mango Juice 250ml,2,3000,6000
+11/2/2023,6:33:00 PM,R-9982,Drinks,Capuccino,1,5000,5000
+11/2/2023,6:27:00 PM,R-9981,Pastries,Cookies,2,1000,2000
+11/2/2023,6:26:00 PM,R-9980,Drinks,Cafe Latte,1,5000,5000
+11/2/2023,6:26:00 PM,R-9980,Pastries,Kasata (seseme),1,3000,3000
+11/2/2023,6:26:00 PM,R-9980,Takeaways,Standard Takeaway Charges,1,500,500
+11/2/2023,4:44:00 PM,R-9979,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/2/2023,4:43:00 PM,R-9978,Drinks,Americano,1,5000,5000
+11/2/2023,4:43:00 PM,R-9978,Pastries,Vanilla Muffins,1,2500,2500
+11/2/2023,4:43:00 PM,R-9978,Drinks,Ginger Knoc,1,4000,4000
+11/2/2023,3:55:00 PM,R-9976,Pastries,Chocolate Croissants,2,4000,8000
+11/2/2023,3:54:00 PM,R-9975,Drinks,Immunity Juice,1,3000,3000
+11/2/2023,3:54:00 PM,R-9975,Consumeables Stock,Pringles (Hot & Spicy),1,3500,3500
+11/2/2023,1:58:00 PM,R-9973,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/2/2023,1:58:00 PM,R-9973,Drinks,Bottled Soda,1,2000,2000
+11/2/2023,1:41:00 PM,R-9972,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/2/2023,1:35:00 PM,R-9971,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/2/2023,1:35:00 PM,R-9971,Drinks,Ginger Knoc,1,4000,4000
+11/2/2023,1:28:00 PM,R-9970,Drinks,Passion Juice 250ml,1,3000,3000
+11/2/2023,1:28:00 PM,R-9970,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/2/2023,1:27:00 PM,R-9969,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/2/2023,12:43:00 PM,R-9968,Drinks,Cafe Mocha,1,7000,7000
+11/2/2023,12:43:00 PM,R-9968,Takeaways,Standard Takeaway Charges,1,500,500
+11/2/2023,12:23:00 PM,R-9967,Drinks,Red Blush,1,3500,3500
+11/2/2023,12:23:00 PM,R-9967,Pastries,Plain Croissants,1,4000,4000
+11/2/2023,12:22:00 PM,R-9966,ZO Kitchen - Food,Breakfast (Eggs Your way),1,6000,6000
+11/2/2023,12:18:00 PM,R-9965,Drinks,Ginger Knoc,1,4000,4000
+11/2/2023,12:18:00 PM,R-9965,Takeaways,Standard Takeaway Charges,1,500,500
+11/2/2023,9:04:00 AM,R-9964,Drinks,Luxury Hot Chocolate,1,9000,9000
+11/2/2023,9:04:00 AM,R-9964,Takeaways,Standard Takeaway Charges,1,500,500
+11/1/2023,7:39:00 PM,R-9962,Drinks,Capuccino,2,5000,10000
+11/1/2023,7:39:00 PM,R-9962,Takeaways,Standard Takeaway Charges,2,500,1000
+11/1/2023,7:39:00 PM,R-9961,Drinks,Capuccino,1,5000,5000
+11/1/2023,7:39:00 PM,R-9961,Drinks,ZO Power,1,9000,9000
+11/1/2023,6:41:00 PM,R-9960,Drinks,Kadak Chai,2,4500,9000
+11/1/2023,6:41:00 PM,R-9960,ZO Kitchen - Food,Chocolate Muffin,1,2500,2500
+11/1/2023,6:41:00 PM,R-9960,Pastries,Vanilla Muffins,1,2500,2500
+11/1/2023,6:04:00 PM,R-9959,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/1/2023,4:46:00 PM,R-9958,Consumeables Stock,Rosho Oat - Choco Brownie,1,5000,5000
+11/1/2023,4:37:00 PM,R-9957,ZO Kitchen - Food,Chicken Fried Rice,1,11500,11500
+11/1/2023,4:35:00 PM,R-9956,Drinks,Immunity Juice,1,3000,3000
+11/1/2023,4:15:00 PM,R-9955,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/1/2023,4:07:00 PM,R-9954,Drinks,Water,1,1000,1000
+11/1/2023,3:35:00 PM,R-9952,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/1/2023,3:29:00 PM,R-9951,ZO Kitchen - Food,Butter chicken and rice,1,11500,11500
+11/1/2023,3:29:00 PM,R-9951,Drinks,Bottled Soda,1,2000,2000
+11/1/2023,3:16:00 PM,R-9950,Drinks,ZO Shake,1,9000,9000
+11/1/2023,3:16:00 PM,R-9950,Takeaways,Standard Takeaway Charges,1,500,500
+11/1/2023,2:55:00 PM,R-9949,Takeaways,SW Chicken Tikka - Grab & Go,1,7600,7600
+11/1/2023,2:49:00 PM,R-9948,ZO Kitchen - Food,Swahili bowl,1,11500,11500
+11/1/2023,2:26:00 PM,R-9946,Drinks,Passion Juice 250ml,1,3000,3000
+11/1/2023,2:26:00 PM,R-9946,Takeaways,Standard Takeaway Charges,1,500,500
+11/1/2023,2:18:00 PM,R-9945,ZO Kitchen - Food,Breakfast (Eggs Your way),1,6000,6000
+11/1/2023,2:15:00 PM,R-9944,Drinks,Red Blush,1,3500,3500
+11/1/2023,2:15:00 PM,R-9944,Pastries,Cookies,2,1000,2000
+11/1/2023,1:36:00 PM,R-9943,Takeaways,SW Chicken Tikka - Grab & Go,1,9500,9500
+11/1/2023,1:36:00 PM,R-9943,Drinks,Passion Juice 250ml,1,3000,3000
+11/1/2023,1:24:00 PM,R-9942,Drinks,Capuccino,1,5000,5000
+11/1/2023,1:24:00 PM,R-9942,Drinks,Immunity Juice,1,3000,3000
+11/1/2023,1:14:00 PM,R-9941,Drinks,Americano,1,5000,5000
+11/1/2023,1:14:00 PM,R-9941,Takeaways,Standard Takeaway Charges,1,500,500
+11/1/2023,12:44:00 PM,R-9940,Drinks,Hill Water (Lemon and Mint),1,4500,4500
+11/1/2023,12:44:00 PM,R-9940,ZO Kitchen - Food,Chicken Biryani Grab&Go,1,11500,11500
+11/1/2023,11:09:00 AM,R-9938,Drinks,Americano,2,5000,10000
+11/1/2023,11:09:00 AM,R-9938,Takeaways,Standard Takeaway Charges,2,500,1000
+11/1/2023,10:54:00 AM,R-9937,Pastries,Chocolate Croissants,2,4000,8000
+11/1/2023,10:54:00 AM,R-9937,Drinks,Capuccino,1,5000,5000
+11/1/2023,10:05:00 AM,R-9936,Pastries,Plain Croissants,1,4000,4000
+11/1/2023,10:26:00 AM,R-9935,Drinks,Capuccino,1,5000,5000
+11/1/2023,9:59:00 AM,R-9934,Drinks,Espresso,1,3000,3000
+11/1/2023,9:59:00 AM,R-9934,ZO Kitchen - Food,Chocolate Muffin,2,2500,5000
+11/1/2023,9:29:00 AM,R-9933,Drinks,Tropical Mix,1,8000,8000
+11/1/2023,9:29:00 AM,R-9933,Takeaways,Standard Takeaway Charges,1,500,500
+11/1/2023,9:29:00 AM,R-9933,Pastries,Plain Croissants,1,4000,4000
+11/1/2023,9:29:00 AM,R-9933,Pastries,Cinnamon Roll,1,4000,4000
+11/1/2023,8:48:00 AM,R-9932,Pastries,Plain Croissants,1,4000,4000
+11/1/2023,8:47:00 AM,R-9931,Drinks,Kadak Chai,2,4500,9000
