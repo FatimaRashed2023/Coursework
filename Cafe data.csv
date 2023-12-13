@@ -1,7 +1,7 @@
 ﻿Date,Time,Receipt number,Category,Item,Quantity,Price per item,Net sales
-11/30/2023,7:31:00 PM,R-10500,Drinks,Capuccino,1,5000,5000
-11/30/2023,7:31:00 PM,R-10500,Takeaways,Standard Takeaway Charges,1,500,500
-11/30/2023,7:31:00 PM,R-10499,Drinks,Bottled Soda,1,2000,2000
+30/11/2023,7:31:00 PM,R-10500,Drinks,Capuccino,1,5000,5000
+30/11/2023,7:31:00 PM,R-10500,Takeaways,Standard Takeaway Charges,1,500,500
+30/11/2023,7:31:00 PM,R-10499,Drinks,Bottled Soda,1,2000,2000
 11/30/2023,7:25:00 PM,R-10498,Drinks,Immunity Juice,1,3000,3000
 11/30/2023,5:36:00 PM,R-10497,Drinks,Capuccino,2,5000,10000
 11/30/2023,5:36:00 PM,R-10497,Pastries,Cookies,3,1000,3000
